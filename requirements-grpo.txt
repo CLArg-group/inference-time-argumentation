@@ -1,0 +1,25 @@
+# Environment for GRPO training (ita.grpo_finetuning) and for the evaluation
+# scripts that run GRPO-trained generators. Install with:
+#   pip install -r requirements-grpo.txt
+#   pip install -e . --no-deps
+#
+# Separate from the main uv environment due to incompatible package
+# versions.
+torch==2.10.0
+transformers>=4.56.1,<5
+trl==0.24.0
+peft==0.18.1
+accelerate==1.12.0
+datasets==4.3.0
+huggingface-hub==0.36.0
+safetensors==0.7.0
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.8
+PyYAML==6.0.3
+tqdm==4.67.1
+typing_extensions==4.15.0
+wandb==0.26.0
+tensorboard==2.20.0

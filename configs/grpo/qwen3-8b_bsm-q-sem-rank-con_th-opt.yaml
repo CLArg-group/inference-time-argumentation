@@ -1,0 +1,33 @@
+# GRPO training of the Qwen3-8B argument generator, with
+# base scores assigned by BSM-Q (primed & sem & rank & con).
+# Reward thresholds re-optimised for balanced accuracy every 25 steps on the
+# completions from the last 25 steps, starting from 0.33 and 0.66.
+
+model_id: Qwen/Qwen3-8B
+dataset: Data/Training/training_true_false_uncertain.csv
+output_dir: outputs/grpo/qwen3-8b_bsm-q-sem-rank-con_th-opt
+
+seed: 0
+learning_rate: 1.0e-05
+epochs: 2
+# Only sets checkpoint spacing; the per-device batch size is fixed in grpo_stage.py
+batch_size: 16
+num_generatons: 2
+
+semantics: dfq
+conservativeness: 1.0
+lower_threshold: 0.33
+upper_threshold: 0.66
+continuous_reward: true
+enable_threshold_optimization: true
+threshold_opt_window: 25
+threshold_opt_interval: 25
+threshold_opt_min_samples: 20
+threshold_opt_criterion: balanced_accuracy
+
+base_score_strategy: learned_base_score
+bs_model_path: checkpoints/bsm-q-sem-rank-con
+bs_device: cuda:0
+
+no_wandb: false
+push_to_hub: false

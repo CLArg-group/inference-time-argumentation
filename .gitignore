@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+
+# Downloaded or trained base score model checkpoints (see README)
+/checkpoints/
+
+# GRPO runs, evaluation outputs and logs
+/outputs/
+/logs/
+wandb/
+*.log

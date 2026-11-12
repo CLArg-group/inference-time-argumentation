@@ -1,0 +1,2042 @@
+[
+    {
+      "claim": "The Great Wall of China is generally not visible from low Earth orbit with the naked eye, contrary to popular belief.",
+      "support": [
+        "The Great Wall of China is only about 6 meters wide, which is below the resolution limit of the human eye from low Earth orbit (approximately 100 meters).",
+        "Astronauts and space agencies have confirmed that the wall is not easily distinguishable from other linear features like highways or rivers at typical orbital altitudes.",
+        "The Earth's curvature and atmospheric distortion further reduce visibility of narrow structures like the Great Wall from space.",
+        "Scientific studies indicate that the human eye cannot discern features smaller than 1 kilometer from low Earth orbit without magnification."
+      ],
+      "attack": [
+        "Under optimal lighting conditions and high contrast, the Great Wall may be visible to trained observers from low Earth orbit.",
+        "The wall's length (over 21,000 kilometers) and distinctiveness compared to surrounding terrain could theoretically make it identifiable under specific circumstances.",
+        "Some sources claim that the wall is visible from space, though this is often attributed to enhanced magnification or digital imaging rather than naked-eye observation."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Lightning can strike the same place multiple times, with tall structures like the Empire State Building being hit about 20-25 times per year.",
+      "support": [
+        "Lightning tends to strike the tallest objects in an area repeatedly due to their increased likelihood of being the first to reach the ionized air.",
+        "The Empire State Building's height and location make it a common target for lightning strikes, consistent with its status as a lightning-prone structure.",
+        "Lightning protection systems, like those on the Empire State Building, are designed to handle multiple strikes, implying frequent strikes are documented."
+      ],
+      "attack": [
+        "The exact number of strikes (20-25 per year) is not widely corroborated by authoritative sources, which often cite higher figures (e.g., 100+ strikes annually).",
+        "Urban environments and surrounding structures may alter strike frequency, reducing the Empire State Building's actual strike count compared to isolated tall objects.",
+        "The claim may conflate lightning strikes with other electrical phenomena, such as induced currents or ground faults, not direct lightning strikes."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The human heart beats approximately 100,000 times per day and pumps about 2,000 gallons of blood through the body's circulatory system.",
+      "support": [
+        "The average resting heart rate of 70 beats per minute results in approximately 100,800 beats per day (70 * 60 * 24).",
+        "A cardiac output of 5 liters per minute over 24 hours equals ~7,200 liters (1,900 gallons) of blood pumped daily, aligning with the claim's approximation."
+      ],
+      "attack": [
+        "The total blood volume in the human body is about 5 liters, not 2,000 gallons, so the claim conflates total blood volume with daily pumped volume."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Pacific Ocean covers more surface area than all of Earth's land masses combined.",
+      "support": [
+        "The Pacific Ocean covers approximately 165.2 million square kilometers, which exceeds the total land area of about 148.9 million square kilometers.",
+        "Scientific consensus confirms that the Pacific Ocean is the largest ocean and accounts for over 30% of Earth's total surface area.",
+        "Earth's total land area is roughly 29% of the planet's surface, while the Pacific Ocean alone makes up about 32% of the total surface area."
+      ],
+      "attack": [
+        "The claim conflates the Pacific Ocean with all oceans, as the combined area of all oceans (361 million km²) is larger than land, but the Pacific alone is not the sole contributor."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Bananas are naturally radioactive because they contain potassium-40, a radioactive isotope of potassium.",
+      "support": [
+        "Bananas contain potassium-40, a naturally occurring radioactive isotope of potassium.",
+        "Potassium-40 is present in all living organisms, including bananas, due to its role in biological processes.",
+        "The radioactivity of potassium-40 in bananas is a well-documented scientific fact, often cited in educational contexts."
+      ],
+      "attack": [
+        "The radioactivity from potassium-40 in bananas is extremely low, with a banana emitting less than 1/10th of a millirem of radiation per year.",
+        "The term 'radioactive' is misleading for bananas, as their radioactivity is negligible compared to background radiation from cosmic sources or medical imaging.",
+        "While potassium-40 is radioactive, the overall contribution of bananas to an individual's radiation exposure is insignificant and not a health concern."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The human brain uses approximately 20% of the body's total energy despite accounting for only about 2% of body weight.",
+      "support": [
+        "The brain consumes about 20% of the body's total energy at rest due to its high metabolic activity and constant neural processes.",
+        "Neurological studies consistently cite the brain's energy demand as approximately 20% of total body energy expenditure.",
+        "The brain's energy use is primarily driven by synaptic activity, which requires significant ATP production despite its small weight."
+      ],
+      "attack": [
+        "The 20% figure may vary depending on individual factors like activity level, age, or health conditions.",
+        "Some research suggests the brain's energy consumption is closer to 15-18% under certain metabolic conditions.",
+        "The claim conflates energy use with oxygen consumption, which may not directly translate to caloric expenditure."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Diamonds can be damaged or destroyed in a sufficiently hot house fire because they are made of carbon and can burn at high temperatures.",
+      "support": [
+        "Diamonds can withstand high temperatures but may fracture under extreme thermal stress, which could occur in a sufficiently intense house fire."
+      ],
+      "attack": [
+        "Diamonds are composed of carbon but do not burn; they sublimate (transition directly from solid to gas) at temperatures above 1,400°C, which are far higher than typical house fire temperatures (usually below 1,000°C).",
+        "House fires lack the necessary oxygen and sustained heat to cause combustion of diamonds, which require specific conditions to react with oxygen.",
+        "Diamonds are among the hardest materials and are highly resistant to thermal degradation under normal fire conditions."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Mount Everest grows approximately 4 millimeters taller each year due to the ongoing collision of the Indian and Eurasian tectonic plates.",
+      "support": [
+        "Geological studies using GPS data confirm that the Indian and Eurasian tectonic plates collide at a rate of ~50 mm/year, contributing to uplift in the Himalayas.",
+        "Research published in *Science* (2019) estimates Everest's annual growth rate at ~4 mm due to tectonic compression in the region.",
+        "The ongoing collision of these plates has been directly linked to the formation and elevation increase of the Himalayas over millions of years."
+      ],
+      "attack": [
+        "Erosion from glaciers, rainfall, and weathering may offset tectonic uplift, reducing net growth to less than 4 mm/year in some areas.",
+        "The 4 mm figure is an average and may vary regionally, as tectonic activity and uplift rates are not uniform across the Himalayas.",
+        "Some studies suggest the actual uplift rate could be higher (e.g., 10 mm/year), with discrepancies arising from measurement methodologies and data interpretation."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Eiffel Tower can be up to 6 inches taller during the summer than in winter because the iron structure expands when heated by the sun.",
+      "support": [
+        "Metals like iron expand when heated, and the Eiffel Tower is constructed primarily of wrought iron, which exhibits thermal expansion.",
+        "The Eiffel Tower's height is approximately 330 meters, and a 30°C temperature difference between summer and winter could result in measurable expansion.",
+        "Thermal expansion calculations using iron's coefficient (12×10^-6/°C) suggest a 30°C temperature change could cause up to ~4.6 inches of expansion, close to the 6-inch claim."
+      ],
+      "attack": [
+        "The actual temperature difference between summer and winter may not consistently reach 30°C in all regions, reducing the expansion amount.",
+        "The Eiffel Tower's design includes expansion joints and flexible components that may limit overall height changes.",
+        "The 6-inch figure may overestimate expansion due to variations in material composition, structural rigidity, or measurement methods."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The international date line runs through the Pacific Ocean and causes certain island nations like Kiribati to experience the new year before any other country on Earth.",
+      "support": [
+        "The International Date Line runs through the Pacific Ocean, and Kiribati's westernmost islands (like the Line Islands) are west of the line, making them a day ahead of most other countries.",
+        "The Date Line's zigzag adjustments to avoid dividing territories mean some islands, such as Kiribati, are positioned west of the line, allowing them to celebrate New Year's first.",
+        "Kiribati's time zone (UTC+14) is the earliest in the world, enabled by its location west of the Date Line, which causes it to experience the new year before other nations."
+      ],
+      "attack": [
+        "The Date Line's position is not the sole factor; time zones and political decisions (e.g., Kiribati's UTC+14 designation) also influence when a country observes the new year.",
+        "Other Pacific islands, like Samoa, are east of the Date Line but still celebrate New Year's early due to their time zone (UTC-11), complicating the claim's exclusivity.",
+        "The Date Line's adjustments mean some countries east of the line (e.g., American Samoa) can also experience the new year early, challenging the claim's specificity."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Ed Headrick, often called the father of the modern Frisbee, was cremated and some of his ashes were incorporated into memorial discs that were given to family and friends.",
+      "support": [
+        "Ed Headrick, a key figure in the development of the modern Frisbee, was cremated following his death in 2009, as documented in multiple obituaries and biographical sources.",
+        "Memorial discs containing his ashes were created by his family and friends as a tribute, aligning with cultural practices of commemorating loved ones through unique memorials.",
+        "The Frisbee company, Wham-O, honored Headrick by incorporating his ashes into commemorative discs, reflecting his lasting legacy in the sport."
+      ],
+      "attack": [
+        "There is no widely verified evidence or public records confirming that Ed Headrick's ashes were used in memorial discs, casting doubt on the claim's accuracy.",
+        "The claim may conflate Ed Headrick with other individuals named Ed Headrick, as the name is not uniquely tied to the Frisbee inventor in official records.",
+        "The assertion could be based on anecdotal or speculative accounts rather than documented historical facts about Headrick's cremation or memorial practices."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "A standard deck of playing cards has 52 factorial possible arrangements, which is approximately 8 followed by 67 zeros, meaning that every time you shuffle a deck thoroughly, you are almost certainly creating an arrangement that has never existed before in history.",
+      "support": [
+        "52! equals approximately 8.07 × 10^67, a number vastly exceeding the estimated number of atoms in the observable universe (10^80), making the probability of a repeat arrangement astronomically low.",
+        "Even if every human in history shuffled a deck once per second for millennia, the total number of shuffles would still be negligible compared to 52!.",
+        "The sheer magnitude of 52! implies that the chance of any specific arrangement having occurred before is effectively zero for practical purposes."
+      ],
+      "attack": [
+        "The claim assumes all previous shuffles are unique, but there is no empirical evidence to confirm or deny this for any specific arrangement.",
+        "While the probability of a repeat is extremely low, it is not mathematically impossible, so 'almost certainly' is a probabilistic approximation, not an absolute certainty.",
+        "Historical shuffling frequency (e.g., card games, magic tricks) may not have reached the scale required to make a repeat statistically likely."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The shortest war in recorded history lasted between 38 and 45 minutes, occurring in 1896 between Britain and Zanzibar.",
+      "support": [
+        "The Anglo-Zanzibar War of 1896 is widely recognized as the shortest war in history, lasting approximately 38 minutes according to historical records.",
+        "The conflict involved a British naval attack on Zanzibar, which ended swiftly due to the lack of prepared defense and the rapid surrender of Zanzibari forces.",
+        "Multiple reputable historical sources, including the Oxford Companion to World War II, cite the 38-minute duration as the shortest recorded war."
+      ],
+      "attack": [
+        "Some sources dispute the exact duration, with estimates ranging up to 45 minutes, creating ambiguity about the precise timeframe.",
+        "The conflict may have been classified as a coup or military operation rather than a formal war, depending on historical interpretation.",
+        "The brevity of the conflict could be attributed to the lack of significant military engagement rather than a true 'war' in the traditional sense."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Vatican City is the smallest country in the world with an area of approximately 0.17 square miles and a population of around 800 people.",
+      "support": [
+        "The Vatican City is officially recognized as the smallest sovereign state by the United Nations and other international bodies.",
+        "Its area of approximately 0.17 square miles (0.44 km²) is widely cited as the smallest land area of any independent country.",
+        "The population of around 800 residents aligns with recent demographic estimates for the Vatican City State."
+      ],
+      "attack": [
+        "Some microstates, like San Marino or Monaco, are often cited as smaller than Vatican City, though their areas are marginally larger.",
+        "Population figures for Vatican City can fluctuate due to changes in clergy and staff numbers, making exact counts subject to variation.",
+        "The definition of a 'country' may exclude Vatican City, as it is a city-state with a unique status as the headquarters of the Catholic Church."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first successful vaccine was developed by Edward Jenner in 1796 to prevent smallpox, using material from cowpox lesions to provide immunity.",
+      "support": [
+        "Edward Jenner's 1796 experiment with cowpox inoculation demonstrated immunity to smallpox, marking the first successful vaccine.",
+        "Historical records confirm Jenner's use of cowpox lesions to vaccinate individuals against smallpox, a practice later validated by scientific consensus.",
+        "The World Health Organization recognizes Jenner's work as the foundation of immunology and the first effective vaccine.",
+        "Jenner's method was the first to use a different pathogen (cowpox) to confer immunity, a principle central to modern vaccinology."
+      ],
+      "attack": [
+        "The term 'vaccine' was coined later by Louis Pasteur, though Jenner's method is still considered the first successful immunization technique.",
+        "Some argue early variolation practices (using smallpox itself) predated Jenner's work, though they were riskier and not vaccines.",
+        "The claim simplifies Jenner's contribution, as his initial experiments faced skepticism and required further refinement for widespread adoption."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The longest recorded flight of a chicken is 13 seconds, as chickens are primarily ground-dwelling birds with limited flying capabilities despite having wings.",
+      "support": [
+        "Chickens have limited flight capabilities due to their body structure, which supports the idea of short, brief flights.",
+        "Anecdotal evidence and some sources cite a 13-second flight duration as the longest recorded for chickens.",
+        "Their wings are adapted for short bursts of flight rather than sustained aerial movement."
+      ],
+      "attack": [
+        "The 13-second record lacks official documentation from recognized ornithological or poultry organizations.",
+        "Chickens can glide or fly longer distances when motivated (e.g., escaping predators), contradicting the claim of a strict 13-second limit.",
+        "The claim conflates short bursts of flight with sustained flight, which is not accurate for chickens."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first email was sent in 1971 by computer engineer Ray Tomlinson, who also chose the @ symbol to separate the user name from the computer name in email addresses.",
+      "support": [
+        "Ray Tomlinson implemented the first email system on ARPANET in 1971, as documented by historical records and computer history sources.",
+        "Tomlinson's choice of the @ symbol to separate user names from hostnames became the standard for email addresses, widely adopted in modern systems.",
+        "The @ symbol was not previously used in email systems, making Tomlinson's selection a pivotal innovation in email protocol design."
+      ],
+      "attack": [
+        "The first email was sent earlier in 1969 by researchers at the University of California, Santa Barbara, using the SNDMSG program on ARPANET.",
+        "The @ symbol was already in use in other contexts, such as the U.S. military's SABRE system, before Tomlinson's implementation.",
+        "Tomlinson's work standardized email, but the concept of electronic messaging existed in earlier forms, such as the 1960s 'message passing' systems."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Nobel Prize cannot be awarded posthumously except in cases where the recipient dies after the announcement but before the December ceremony, a rule that has been in effect since 1974.",
+      "support": [
+        "The Nobel Committee's official guidelines confirm that posthumous awards are only permitted if the recipient dies after the announcement but before the December ceremony, a rule established in 1974.",
+        "Historical records show the 1974 rule was implemented to clarify posthumous award eligibility, aligning with the claim's timeline.",
+        "Examples of posthumous Nobel Prizes awarded between 1974 and 2023 (e.g., 1974 Chemistry Prize) confirm the rule's consistent application."
+      ],
+      "attack": [
+        "The 1974 rule may have been a clarification rather than a new establishment, implying the posthumous award policy existed prior.",
+        "The claim's specificity about 'December ceremony' may overlook exceptions, such as the 1974 Physics Prize awarded to someone who died after the ceremony but before the official announcement.",
+        "Nobel Prize rules are not publicly archived in a centralized database, making the claim's assertion about the 1974 rule's origin unverifiable."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The modern piano has 88 keys as a standard, with 52 white keys and 36 black keys, a configuration that was established by the 1880s to accommodate the range of most classical compositions.",
+      "support": [
+        "The modern standard of 88 keys was indeed established in the 1880s by Steinway & Sons to extend the piano's range beyond earlier models, which typically had 85 or 88 keys.",
+        "Classical compositions from the 19th century often required the extended range of A0 to C8, which the 88-key layout accommodates, aligning with the claim.",
+        "The 52 white keys (A to G) and 36 black keys (sharps/flats) correspond to the 12-note chromatic scale, ensuring consistency with musical theory."
+      ],
+      "attack": [
+        "The 88-key standard was not universally adopted until the late 19th century, with some manufacturers still producing pianos with fewer keys as late as the early 20th century.",
+        "The claim oversimplifies the reason for the 88-key layout, as it was also driven by the desire to accommodate modern music genres and technical advancements, not solely classical compositions.",
+        "Classical composers like Beethoven and Chopin worked with earlier piano ranges (e.g., 85 keys), suggesting the 88-key standard was not strictly necessary for classical music."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Amazon River discharges more water into the ocean than the next seven largest rivers combined, accounting for approximately 20% of all fresh water that flows into the world's oceans.",
+      "support": [
+        "The Amazon River has an average discharge of approximately 209,000 cubic meters per second, exceeding the combined discharge of the next seven largest rivers (e.g., Congo, Ganges, Yangtze, etc.) by significant margins.",
+        "Scientific studies estimate the Amazon accounts for about 15-20% of global freshwater discharge to oceans, aligning with the claim's 20% figure as an approximate average.",
+        "The Amazon's vast drainage basin (7 million square kilometers) and high flow rates contribute to its dominant role in global freshwater flow."
+      ],
+      "attack": [
+        "The 20% figure is an approximation; some sources cite the Amazon as contributing 15-18% of global river discharge, depending on measurement methods and seasonal variations.",
+        "The combined discharge of the next seven largest rivers may approach or slightly exceed the Amazon's flow in certain years due to variability in river gauging data.",
+        "The claim conflates river discharge with total freshwater input, which includes groundwater and other sources, potentially inflating the Amazon's proportional contribution."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Hollywood sign in Los Angeles originally read \"Hollywoodland\" when it was erected in 1923 as an advertisement for a real estate development, and the last four letters were removed in 1949.",
+      "support": [
+        "Historical records confirm the Hollywood sign was originally erected in 1923 as 'Hollywoodland' to promote a real estate development.",
+        "The removal of the 'land' portion in 1949 is documented in multiple sources, including Los Angeles city archives and historical preservation reports.",
+        "The sign's original purpose as an advertisement aligns with the real estate boom of the 1920s, supporting its initial name."
+      ],
+      "attack": [
+        "Some sources dispute the exact year of the 'land' removal, suggesting it occurred in 1948 rather than 1949.",
+        "The sign was never a billboard but a large, flat sign mounted on a hill, which may have been repurposed rather than altered in 1949."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The human body contains on the order of tens of trillions of human cells and a similar number of bacterial cells; commonly cited estimates put the counts at roughly 30 trillion human cells and 38 trillion bacteria in a reference adult.",
+      "support": [
+        "The human microbiome contains approximately 38 trillion bacterial cells, aligning with estimates that bacterial cells outnumber human cells by about 1.3 to 1.",
+        "Studies like the Human Microbiome Project confirm that the gut alone hosts trillions of bacteria, contributing to the overall estimate of ~38 trillion bacterial cells in the body.",
+        "The estimated 30 trillion human cells is consistent with cell counts derived from body mass and average cell size, as calculated by biomedical research."
+      ],
+      "attack": [
+        "The exact number of bacterial cells varies widely depending on factors like diet, health, and measurement methods, making '38 trillion' an approximation rather than a precise figure.",
+        "Some sources argue that the total bacterial cell count could range from 10 to 100 trillion, depending on whether all body sites (e.g., skin, mouth) are included.",
+        "The 30 trillion human cell estimate assumes uniform cell size and density, which may not account for variations in organ size or cell types."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The average cloud weighs approximately 1.1 million pounds, as calculated from the typical density of water droplets suspended in the air and the volume of a cumulus cloud.",
+      "support": [
+        "Clouds consist of water droplets with an average density of about 0.5 grams per cubic meter, and a typical cumulus cloud can span 1 billion cubic meters, leading to a total mass of approximately 500,000 kilograms (1.1 million pounds).",
+        "Scientific estimates for cloud mass often cite 1.1 million pounds as a rounded average for cumulus clouds, aligning with calculations based on water density and cloud volume."
+      ],
+      "attack": [
+        "Cloud density varies significantly depending on altitude, humidity, and cloud type, making the 1.1 million pound average potentially inaccurate for all cloud types.",
+        "The calculation assumes uniform water distribution, but clouds often have uneven droplet concentrations, which could skew the average weight.",
+        "The 1.1 million pound figure is an approximation and not a universally accepted precise measurement for all clouds."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first postage stamp, called the Penny Black, was issued in the United Kingdom in 1840 and featured a profile of Queen Victoria, revolutionizing mail delivery by requiring prepayment by the sender rather than payment by the recipient.",
+      "support": [
+        "The Penny Black was indeed the first adhesive postage stamp issued by the UK in 1840, as documented by historical records.",
+        "Queen Victoria's profile appears on the Penny Black, aligning with her reign beginning in 1837 and the stamp's issuance in 1840.",
+        "The prepayment system introduced by the Penny Black shifted responsibility from recipients to senders, streamlining mail delivery processes.",
+        "The Royal Mail's adoption of the Penny Black marked a pivotal innovation in postal services, reducing fraud and inefficiencies."
+      ],
+      "attack": [
+        "The Penny Black features a bust of Queen Victoria, not a full-profile portrait, which may challenge the claim's description.",
+        "The claim overstates the immediate impact of the Penny Black; its adoption was gradual and faced resistance in some regions.",
+        "Prepayment systems existed in other countries before 1840, suggesting the Penny Black was not the first such innovation globally.",
+        "The revolution in mail delivery is debated by historians, as the system's benefits were not universally recognized at the time."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The longest hiccuping spell on record lasted 68 years, from 1922 to 1990, experienced by an American farmer named Charles Osborne who hiccuped approximately 430 million times during that period before they mysteriously stopped.",
+      "support": [
+        "Medical records and historical accounts cite Charles Osborne as having the longest recorded hiccuping spell, lasting 68 years from 1922 to 1990.",
+        "The calculated number of hiccups (430 million) aligns with the duration if assuming an average frequency of 4–6 hiccups per minute.",
+        "Osborne's case is documented in medical literature as a rare example of persistent hiccuping linked to a neurological condition."
+      ],
+      "attack": [
+        "The exact timeline (1922–1990) and duration of 68 years are disputed by some sources, which suggest the record may be misattributed or exaggerated.",
+        "The claim of 430 million hiccups is an approximation and may not account for variations in frequency or gaps in recorded data.",
+        "Modern medical analysis suggests Osborne's hiccups may have been caused by a treatable condition, not a 'mysterious' cessation."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The United States purchased Alaska from Russia in 1867 for $7.2 million, which equated to approximately two cents per acre, in a transaction that was initially mocked as \"Seward's Folly\" but proved invaluable after the discovery of gold and oil.",
+      "support": [
+        "The United States did purchase Alaska from Russia in 1867 for $7.2 million, as documented in historical records.",
+        "The transaction was initially derided as 'Seward's Folly' due to skepticism about its value, a term widely cited in historical accounts.",
+        "Alaska's strategic location and eventual resource wealth, including gold and oil, later justified the purchase's long-term value."
+      ],
+      "attack": [
+        "The per-acre cost of two cents is an approximation, as the exact calculation depends on Alaska's total area and the precise $7.2 million figure.",
+        "Gold was discovered in Alaska in 1880, but oil reserves were not commercially exploited until the mid-20th century, complicating the claim's timeline.",
+        "The purchase was also motivated by strategic interests, such as securing the Pacific Northwest, not solely by resource potential."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first recorded women's soccer match took place in Scotland in 1881 between teams representing Scotland and England, drawing a crowd of about 2,000 spectators, though the sport later faced significant opposition and the Football Association in England banned women's matches on its grounds from 1921 to 1971.",
+      "support": [
+        "Historical records indicate women's soccer matches occurred in the 1800s, with some sources citing 1881 as a notable early event in Scotland.",
+        "The Football Association's ban on women's matches from 1921 to 1971 aligns with documented historical policies restricting women's participation in the sport.",
+        "Contemporary accounts from the late 19th century mention women's football matches in Scotland, supporting the claim of early organized play."
+      ],
+      "attack": [
+        "The first recorded women's soccer match is often cited as occurring in England in 1868, predating the 1881 Scotland-England match claim.",
+        "The 1881 match between Scotland and England may not have been the first recorded women's soccer game, as other matches occurred in different regions earlier.",
+        "The crowd size of 2,000 for the 1881 match is not corroborated by primary sources, casting doubt on its accuracy."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The saxophone was invented in the early 1840s by Belgian instrument maker Adolphe Sax and was originally designed for military and orchestral use before becoming a staple of jazz music.",
+      "support": [
+        "Adolphe Sax patented the saxophone in 1846, confirming its invention in the 1840s.",
+        "The saxophone was initially designed for military bands and orchestras, as documented in historical records.",
+        "The instrument gained prominence in jazz during the 1920s-1930s, aligning with its transition from classical to popular music."
+      ],
+      "attack": [
+        "The saxophone was patented in 1846, which is the late 1840s, not the early 1840s as claimed.",
+        "Sax's original intent was to create an instrument for civilian orchestras, not primarily for military use.",
+        "The saxophone's adoption in jazz was gradual, not immediate, challenging the claim of its 'staple' status in the early 20th century."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first television commercial aired in the United States on July 1, 1941, before a baseball game between the Brooklyn Dodgers and Philadelphia Phillies, and was a 10-second advertisement for Bulova watches that cost only $9 to air.",
+      "support": [
+        "Historical records confirm the first TV commercial aired on July 1, 1941, during a live broadcast of a baseball game between the Brooklyn Dodgers and Philadelphia Phillies.",
+        "The Bulova watch ad was indeed the first commercial aired on American television, as documented by multiple media historians.",
+        "The $9 cost for a 10-second spot aligns with early television advertising rates in the 1940s."
+      ],
+      "attack": [
+        "Some sources dispute the exact date, suggesting the first commercial aired on July 1, 1941, but not necessarily during a baseball game.",
+        "The $9 cost may be a misinterpretation of historical data, as early advertising rates were not uniformly standardized across networks.",
+        "The commercial was likely shown during a test broadcast rather than a live game, as the game's broadcast was not widely recognized as a public event at the time."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The international radio distress signal \"SOS\" does not stand for any specific phrase like \"Save Our Ship\" but was chosen in the early 20th century because its Morse code pattern of three dots, three dashes, three dots is distinctive and easy to recognize in emergency situations.",
+      "support": [
+        "The International Telecommunication Union (ITU) standardized 'SOS' in 1908, emphasizing its simplicity and distinctiveness in Morse code (···---···).",
+        "The three-part pattern (dots, dashes, dots) is easier to transmit and recognize under emergency conditions compared to other codes.",
+        "Historical records show the code was designed for rapid, unambiguous communication, not to represent a specific phrase."
+      ],
+      "attack": [
+        "The phrase 'Save Our Ship' is a common misconception; the original intent was not to encode a specific phrase but to create a universally recognizable signal.",
+        "The 'SOS' pattern was adopted as a compromise between existing distress signals like 'CQD' and the need for simplicity, not solely for its mnemonic qualities.",
+        "Modern sources clarify that the 'Save Our Ship' interpretation emerged later as a mnemonic, not as the original rationale for the signal."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The caffeine in coffee reaches peak concentration in the bloodstream approximately 30 to 60 minutes after consumption, with a half-life of about 5 hours in the average adult, meaning it takes that long for the body to eliminate half of the consumed caffeine.",
+      "support": [
+        "Pharmacokinetic studies confirm caffeine reaches peak plasma concentration 30-60 minutes post-consumption in most adults.",
+        "The half-life of caffeine is widely accepted as approximately 5 hours in healthy adults, as supported by clinical research.",
+        "Metabolism of caffeine primarily occurs in the liver via cytochrome P450 enzymes, aligning with its 5-hour half-life in average individuals."
+      ],
+      "attack": [
+        "The half-life of caffeine can vary significantly based on factors like age, liver function, and genetic variations in metabolism.",
+        "Peak caffeine concentration times may differ based on coffee preparation methods (e.g., espresso vs. drip) and individual absorption rates.",
+        "The 'half-life' refers to the time for plasma concentration to reduce by half, not the total elimination time, which can take 5-6 half-lives (25-30 hours)."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The platypus is one of only five species of monotremes, or egg-laying mammals, and males possess venomous spurs on their hind legs that can deliver a painful sting capable of incapacitating small animals and causing severe pain in humans.",
+      "support": [
+        "The platypus is indeed one of five living monotreme species, including four species of echidnas.",
+        "Male platypuses possess venomous spurs on their hind legs, which secrete a toxic venom capable of causing severe pain in humans and incapacitating small animals."
+      ],
+      "attack": [
+        "The claim inaccurately states there are only five monotreme species, as additional species like the Sir David's bat (a monotreme) may exist.",
+        "Venom from platypus spurs is primarily used for interspecies defense and may not reliably incapacitate small animals or cause severe pain in humans."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first commercial barcode was scanned on a pack of Wrigley's Juicy Fruit chewing gum at a supermarket in Troy, Ohio on June 26, 1974, marking the beginning of widespread automated checkout systems in retail stores.",
+      "support": [
+        "The first UPC barcode was developed by IBM and successfully scanned at a Marsh Supermarket in Troy, Ohio, on June 26, 1974, as documented in historical records.",
+        "The scanned item was a pack of Wrigley's Juicy Fruit gum, confirming the specific product associated with the first commercial barcode scan.",
+        "The event marked the beginning of automated checkout systems, as the UPC standard became widely adopted in retail after this milestone."
+      ],
+      "attack": [
+        "Some sources dispute the exact date, suggesting the first successful barcode scan occurred in 1973, though the 1974 date is widely accepted.",
+        "The claim may conflate the first prototype scan with the first commercial implementation, as early trials occurred before the 1974 event.",
+        "The role of Wrigley's gum in the first scan is debated, as other retailers and products were also involved in early UPC testing."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first subway system in the world opened in London in 1863 and used steam-powered trains that ran through underground tunnels, initially carrying approximately 38,000 passengers on its opening day despite concerns about the safety and health effects of traveling beneath the earth.",
+      "support": [
+        "The London Underground, the world's first subway system, opened in 1863 and initially used steam-powered trains.",
+        "The Metropolitan Railway, part of the London Underground, operated steam trains through underground tunnels on its opening day.",
+        "Historical records indicate the first subway service carried approximately 38,000 passengers on its opening day."
+      ],
+      "attack": [
+        "The exact passenger count of 38,000 is disputed; some sources cite a lower number, such as 18,000 or 25,000.",
+        "Steam-powered trains caused severe smoke and soot issues, making the tunnels hazardous and undermining claims of safety.",
+        "The initial line was only partially underground, with much of the route above ground, contradicting the claim of 'underground tunnels.'"
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Astronauts including Yang Liwei have said that the Great Wall of China is generally not visible to the naked eye from low Earth orbit.",
+      "support": [
+        "Yang Liwei, China's first astronaut, has publicly stated the Great Wall is not visible to the naked eye from space.",
+        "The Great Wall's width (30-60 meters) is below the human eye's resolution limit at low Earth orbit altitudes (200-400 km).",
+        "NASA and other space agencies confirm that no structure on Earth is consistently visible to the naked eye from orbit without magnification.",
+        "Atmospheric distortion and lighting conditions further reduce visibility of fine details like the Great Wall from space."
+      ],
+      "attack": [
+        "Some astronauts have reported seeing the Great Wall under specific lighting conditions, though these accounts are anecdotal and inconsistent.",
+        "The Great Wall's visibility could be influenced by factors like solar angle, cloud cover, and observer acuity, which vary per mission.",
+        "The claim may conflate the visibility of large-scale features (e.g., rivers, highways) with the Great Wall's narrow width."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first traffic light was installed in London in 1868 and was operated manually by a police officer, using red and green gas lamps to control horse-drawn carriage traffic, but it exploded less than a month after installation, injuring the operator.",
+      "support": [
+        "Historical records confirm the first traffic light was installed in London in 1868, using gas lamps controlled by a police officer.",
+        "The device featured red and green gas lamps, aligning with the technology of the time for traffic control.",
+        "The explosion occurred shortly after installation, as documented in historical accounts of the incident.",
+        "The injured operator's account is referenced in early 20th-century reports on traffic light history."
+      ],
+      "attack": [
+        "The explosion may have been a later incident, not the first traffic light's immediate failure.",
+        "Some sources dispute the claim that the operator was injured, citing inconsistent historical records.",
+        "The system may have been partially automated, not entirely manually operated by a police officer.",
+        "Alternative claims suggest the first traffic light was installed in a different location or year."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The game of chess originated in India during the 6th century CE as a game called chaturanga, which represented the four divisions of the military: infantry, cavalry, elephantry, and chariotry, before spreading to Persia and eventually evolving into the modern game played worldwide today.",
+      "support": [
+        "Historical texts and archaeological evidence suggest chaturanga, an ancient Indian game, predated modern chess and featured the four military divisions mentioned.",
+        "The game's rules and piece structures align with descriptions of chaturanga, supporting its evolution into shatranj in Persia.",
+        "Scholarly consensus links the spread of chess to Persian cultural exchanges, which later influenced European variants."
+      ],
+      "attack": [
+        "The exact timeline of chess's origin is debated, with some historians placing its development in the 5th–7th centuries CE rather than the 6th century.",
+        "The transition from chaturanga to modern chess involved significant rule changes in Persia and the Islamic world, not a direct linear evolution.",
+        "Archaeological evidence for chaturanga is limited, relying primarily on textual records rather than physical artifacts."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Ancient Egyptian medical texts from around 1850 BCE include some of the earliest known contraceptive pessary recipes, including mixtures involving crocodile dung, honey, and natron.",
+      "support": [
+        "Ancient Egyptian texts from the Old Kingdom (c. 2686–2181 BCE) mention the use of natron and honey for medicinal purposes, suggesting familiarity with these ingredients.",
+        "Crocodile dung was used in ancient Egypt for its purported antiseptic properties, which could be interpreted as a basis for contraceptive applications.",
+        "The Ebers Papyrus (c. 1550 BCE) references honey and acacia leaves for contraceptive use, aligning with the materials cited in the claim."
+      ],
+      "attack": [
+        "The earliest known medical texts, such as the Ebers Papyrus, date to 1550 BCE, not 1850 BCE, making the timeline of the claim inaccurate.",
+        "There is no direct evidence in ancient Egyptian medical texts that explicitly references pessaries or contraceptive recipes combining crocodile dung, honey, and natron.",
+        "Modern analysis of ancient Egyptian medical practices suggests that contraceptive methods were more likely based on herbal mixtures rather than pessary formulations involving crocodile dung."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first person to survive going over Niagara Falls in a barrel was 63-year-old schoolteacher Annie Edson Taylor, who made the plunge on October 24, 1901, and emerged with only a small gash on her head, though she later advised that no one should ever attempt the stunt again.",
+      "support": [
+        "Annie Edson Taylor was indeed the first woman to survive a barrel plunge over Niagara Falls, as documented in historical records.",
+        "Her survival with only a minor head injury aligns with accounts of her 1901 attempt, which was widely reported in newspapers at the time.",
+        "The claim about her later warning against the stunt is corroborated by historical accounts of her public statements afterward.",
+        "Her age of 63 and the use of a barrel are consistent with the historical context of the stunt, which was more feasible for older individuals due to reduced physical strain."
+      ],
+      "attack": [
+        "The claim conflates 'first woman' with 'first person,' as others had survived falls over Niagara Falls in barrels before her, though not in the same manner.",
+        "Some sources suggest her injuries were more severe than described, including a fractured skull, contradicting the claim of a 'small gash.'",
+        "The exact date of her attempt (October 24, 1901) is disputed by some historians, who question the reliability of contemporary records."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Eiffel Tower grows approximately 6 inches taller during the summer due to thermal expansion, as the iron structure expands when heated by the sun and contracts during cooler temperatures.",
+      "support": [
+        "Thermal expansion occurs in metals like iron, which is the primary material of the Eiffel Tower.",
+        "The Eiffel Tower's height of approximately 330 meters means even small expansion coefficients can result in measurable changes.",
+        "Studies and engineering references confirm that temperature variations cause structural expansion in metal buildings, including the Eiffel Tower."
+      ],
+      "attack": [
+        "The exact 6-inch figure is an approximation, as thermal expansion calculations depend on precise temperature differentials and material coefficients.",
+        "The Eiffel Tower's design includes expansion joints, which may mitigate the perceived height change.",
+        "Paris's average temperature range may not consistently produce a 6-inch expansion, as winter temperatures rarely drop below freezing year-round."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The human brain uses approximately 20% of the body's total oxygen and caloric intake despite accounting for only about 2% of total body weight, consuming roughly 400-500 calories per day even at rest.",
+      "support": [
+        "The human brain, though only 2% of body weight, consumes 20% of the body's oxygen due to its high metabolic activity and energy demands.",
+        "The brain requires a constant supply of glucose, accounting for approximately 400-500 calories daily at rest, as it cannot store energy internally.",
+        "Neurons' continuous electrical activity and synaptic signaling necessitate sustained energy consumption, aligning with the 20% oxygen and caloric usage claim."
+      ],
+      "attack": [
+        "The exact percentage of oxygen and caloric consumption may vary based on individual factors like activity level or health status.",
+        "The claim conflates oxygen consumption with caloric intake, as oxygen usage relates to metabolic processes but does not directly equate to caloric expenditure.",
+        "Some studies suggest the brain may use closer to 20-25% of total energy, but precise figures can differ depending on measurement methods."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first postcard was created in Austria in 1869 and initially faced resistance from postal authorities who considered it an invasion of privacy since anyone could read the message without opening an envelope, but it quickly became popular due to lower postage costs than sealed letters.",
+      "support": [
+        "Historical records confirm the first postcard was introduced in Austria in 1869 by the Austrian Post.",
+        "Postcards used lower postage rates compared to sealed letters, incentivizing their adoption.",
+        "The lack of an envelope allowed messages to be read without opening, raising privacy concerns initially."
+      ],
+      "attack": [
+        "Postal authorities did not universally oppose postcards; some supported them as a cost-effective innovation.",
+        "The primary driver of postcard popularity was their convenience, not solely postage costs.",
+        "Privacy concerns were more about the format than an 'invasion of privacy,' as messages were still publicly visible on the postcard itself."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first ATM (Automated Teller Machine) was installed by Barclays Bank in London in 1967 and used paper vouchers with radioactive carbon-14 for machine readability instead of plastic cards, with customers withdrawing a maximum of £10 per transaction.",
+      "support": [
+        "Barclays Bank did install the first ATM in London in 1967, as documented in historical records.",
+        "The initial ATM design used paper vouchers for transactions, aligning with early banking technology practices."
+      ],
+      "attack": [
+        "The claim that carbon-14 was used for machine readability is incorrect; early ATMs used magnetic strips or other methods.",
+        "The £10 withdrawal limit was not a standard feature of the first ATM, which had different transaction parameters."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The game of Monopoly was originally designed in 1903 by Elizabeth Magie as \"The Landlord's Game\" to demonstrate the negative aspects of concentrating land ownership, with two sets of rules including an anti-monopolist version where wealth was shared, before Charles Darrow later commercialized a modified version in 1935.",
+      "support": [
+        "Historical records confirm Elizabeth Magie designed 'The Landlord's Game' in 1903 to illustrate economic principles, including an anti-monopolist rule set promoting wealth sharing.",
+        "Magie's game included two rule sets: one favoring monopolistic land ownership and another encouraging cooperative wealth distribution, as documented in her 1906 patent.",
+        "Charles Darrow's 1935 commercialization of a modified version of the game, which omitted the anti-monopolist rules, aligns with historical accounts of his adaptation of Magie's design."
+      ],
+      "attack": [
+        "The commercial version of the game popularized by Darrow excluded the anti-monopolist rules, contradicting the claim that both rule sets were preserved in its commercialization.",
+        "Darrow's originality claim was disputed, as evidence shows he had access to Magie's game and likely adapted it without proper attribution, undermining the claim's emphasis on his role as an independent creator.",
+        "The game's primary purpose in its commercial form shifted from educational critique to entertainment, diverging from Magie's original intent to demonstrate economic inequality."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first successful blood transfusion between humans was performed in 1818 by British obstetrician James Blundell, who transfused blood from a husband to his wife suffering from postpartum hemorrhage, though the practice remained dangerous until the discovery of blood types by Karl Landsteiner in 1901.",
+      "support": [
+        "James Blundell's 1818 transfusion was a pivotal advancement in obstetric care, addressing postpartum hemorrhage with a structured method.",
+        "The discovery of blood types by Karl Landsteiner in 1901 directly addressed the critical safety issues in transfusions that Blundell's practice highlighted.",
+        "Blundell's work established transfusion as a medical procedure, despite its inherent risks, laying groundwork for future advancements."
+      ],
+      "attack": [
+        "The first recorded human-to-human blood transfusion occurred in 1667 by Jean-Baptiste Denis, predating Blundell's 1818 work.",
+        "Blundell's transfusions were not the first successful ones; earlier attempts, though risky, had already been documented in medical literature.",
+        "The claim conflates the first successful transfusion in obstetrics with the first overall, ignoring earlier non-obstetric cases."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The first successful vaccine was developed by Edward Jenner in 1796 for smallpox using cowpox material, creating immunity through a process he called vaccination from the Latin word \"vacca\" meaning cow, and his method eventually led to the complete eradication of smallpox declared by the World Health Organization in 1980.",
+      "support": [
+        "Edward Jenner's 1796 smallpox vaccine using cowpox was the first successful vaccination method, as documented in historical medical records.",
+        "The term 'vaccination' derives from the Latin 'vacca' (cow), reflecting Jenner's use of cowpox material, as confirmed by etymological sources.",
+        "Jenner's work laid the foundation for modern immunology, directly contributing to the global eradication of smallpox by the WHO in 1980."
+      ],
+      "attack": [
+        "The eradication of smallpox was a result of global vaccination campaigns and improved public health infrastructure, not solely Jenner's 18th-century method.",
+        "Early variolation practices (using smallpox material) predated Jenner's vaccine and were used in China and the Ottoman Empire centuries earlier.",
+        "While Jenner coined the term 'vaccination,' the exact origin of the word and its widespread adoption occurred gradually over decades."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Golden Gate Bridge was painted international orange to help it stand out against the fog, but the color needs to be completely reapplied every seven years by a team of painters who take exactly 365 days to cover the entire structure from end to end before immediately starting over again.",
+      "support": [
+        "The Golden Gate Bridge was originally painted international orange to enhance visibility in San Francisco's frequent fog, a practice still used today.",
+        "International orange is chosen for its high visibility against the bridge's steel structure and the surrounding environment."
+      ],
+      "attack": [
+        "The Golden Gate Bridge is repainted every five years, not seven, as per official maintenance schedules.",
+        "The repainting process typically takes around 12 to 14 months, not exactly 365 days, due to weather delays and logistical constraints.",
+        "Modern maintenance practices use more efficient methods and materials, reducing the need for full reapplication every seven years."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Pacific Ocean contains more salt than the Atlantic Ocean due to higher evaporation rates at the equator, resulting in salinity levels approximately 15% higher in Pacific waters compared to Atlantic waters at similar latitudes.",
+      "support": [
+        "The Pacific Ocean has higher salinity in certain regions, such as the central and eastern basins, due to intense evaporation and reduced freshwater input compared to the Atlantic.",
+        "In equatorial regions, the Pacific's higher evaporation rates contribute to localized salinity increases, though this varies by latitude and ocean currents."
+      ],
+      "attack": [
+        "The Atlantic Ocean has a higher average salinity (36.5 psu) than the Pacific (34.5 psu) due to factors like the Amazon River's freshwater input and Atlantic gyres.",
+        "The 15% salinity difference claimed is not supported by global averages; the actual difference is approximately 5.5%, and regional variations do not universally validate the claim.",
+        "Salinity differences are influenced by multiple factors beyond evaporation, including river discharge, ice melt, and ocean circulation patterns, which the claim oversimplifies."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Wright brothers' first successful powered flight at Kitty Hawk in 1903 lasted 59 seconds and covered a distance of 852 feet, establishing the foundation for modern aviation.",
+      "support": [
+        "The Wright brothers' 1903 flight at Kitty Hawk was a pivotal moment in aviation history, marking the first controlled, sustained flight of a powered aircraft.",
+        "The flight demonstrated key principles of aerodynamics and control, which became foundational for modern aviation development."
+      ],
+      "attack": [
+        "The claim inaccurately states the duration and distance of the first flight; historical records indicate the first flight lasted 12 seconds and covered 120 feet, not 59 seconds and 852 feet.",
+        "The 59-second, 852-foot flight occurred during the third attempt on the same day, not the first, and the claim conflates multiple flights into a single event."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The game of basketball was invented by accident when a Canadian physical education instructor named James Naismith threw a soccer ball at a peach basket in frustration during a rowdy class in 1891, and students began trying to replicate the shot, leading him to formalize the rules over the following week.",
+      "support": [
+        "James Naismith was a physical education instructor at the YMCA Training School in 1891, aligning with the claim's setting.",
+        "Historical accounts confirm Naismith used a peach basket and soccer ball to create the first basketball game, as described.",
+        "The rules of basketball were formalized by Naismith within a week, consistent with the claim's timeline."
+      ],
+      "attack": [
+        "The claim inaccurately portrays the invention as an accident, whereas Naismith deliberately designed the game to address indoor activity needs.",
+        "The original game used a peach basket without a net, not a soccer ball thrown at it, contradicting the 'throwing' detail.",
+        "The first game involved 9 players per team, not the standard 5, challenging the claim's specifics.",
+        "The story of 'students replicating the shot' is not well-documented in primary sources, casting doubt on the narrative."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human appendix serves as a storage organ for excess bile produced by the liver, releasing it into the intestines during periods of fasting to aid in the breakdown of stored fats.",
+      "support": [
+        "N/A"
+      ],
+      "attack": [
+        "The appendix is not involved in bile storage or release; bile is produced by the liver and stored in the gallbladder, not the appendix.",
+        "The primary function of the appendix is believed to be related to immune system function and gut microbiota, not fat digestion during fasting.",
+        "There is no scientific evidence supporting the appendix's role in storing or releasing bile into the intestines."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Panama Canal connects the Atlantic Ocean to the Indian Ocean through a series of locks that raise ships 85 feet above sea level to cross the Continental Divide.",
+      "support": [],
+      "attack": [
+        "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean, not the Indian Ocean.",
+        "The canal's locks raise ships approximately 85 meters (280 feet), not 85 feet, to cross the Continental Divide.",
+        "The Continental Divide is crossed by the canal, but this does not establish a direct connection between the Atlantic and Indian Oceans."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human heart stops beating for approximately 0.3 seconds between each heartbeat to allow the chambers to fully refill with blood, which means the average person's heart is completely stationary for a cumulative total of about 3 hours per day.",
+      "support": [
+        "The claim's premise about the heart stopping for 0.3 seconds between beats aligns with the diastolic phase of the cardiac cycle, which allows chambers to refill."
+      ],
+      "attack": [
+        "The heart does not stop beating entirely during diastole; it continues to contract slightly and move blood, so 'completely stationary' is inaccurate.",
+        "The calculation of 3 hours of inactivity is flawed, as the 0.3-second pause per beat at a normal heart rate (e.g., 70 BPM) results in ~1.5 hours daily, not 3.",
+        "The heart's continuous rhythmic activity, even during diastole, means it is never 'completely stationary' for extended periods."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Statue of Liberty was originally constructed in New York Harbor and was never located in France, as the common myth suggests it was built in Paris and then transported across the Atlantic Ocean in pieces.",
+      "support": [],
+      "attack": [
+        "The Statue of Liberty was constructed in France, not New York Harbor, as the majority of its structural components were built in Paris before being shipped to the United States.",
+        "Historical records confirm the statue's assembly took place in a Parisian workshop, with the final assembly and transportation to New York Harbor occurring in the 1870s.",
+        "The pedestal, which is part of the statue's base, was constructed in the United States, but the statue itself was not built in New York Harbor.",
+        "The common myth that the statue was 'built in Paris and transported across the Atlantic in pieces' aligns with verified historical facts, directly contradicting the claim."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Great Wall of China is visible from the Moon with the naked eye, making it the only human-made structure that can be seen from lunar distance without the aid of telescopes or other magnification devices.",
+      "support": [],
+      "attack": [
+        "The Great Wall of China is only about 6 meters wide, which is too narrow to be visible from the Moon's distance (384,400 km) with the naked eye.",
+        "The human eye's resolving power is insufficient to discern objects smaller than approximately 1 arcminute, which the Great Wall would subtend at the Moon's distance.",
+        "The claim is a widely debunked myth; no human-made structure is visible from the Moon without magnification, as even large cities appear as faint glows.",
+        "The Moon's distance means only extremely large objects (e.g., Earth's continents) would be visible to the naked eye, not individual structures like the Great Wall.",
+        "The Great Wall's visibility from space is often cited as a myth, with astronauts confirming it is not discernible without telescopes."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Mona Lisa was painted on canvas using oil paints, making it the first major Renaissance artwork to abandon the traditional wooden panel medium that had been used exclusively by Italian artists for centuries.",
+      "support": [],
+      "attack": [
+        "The Mona Lisa was actually painted on a poplar wood panel, not canvas, contradicting the claim of its medium.",
+        "Oil paints were not the dominant medium in the Renaissance; tempera was more commonly used by Italian artists.",
+        "The use of canvas in Renaissance art was rare and not considered a departure from traditional panel painting.",
+        "Leonardo da Vinci's contemporaries, such as Masaccio and Botticelli, also used wooden panels for major works, refuting the 'first' assertion."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The planet Venus rotates in the same direction as Earth, completing one full rotation every 18 hours, which makes it the fastest-spinning planet in our solar system.",
+      "support": [],
+      "attack": [
+        "Venus rotates in the opposite direction to Earth (retrograde rotation), not the same direction.",
+        "Venus's rotation period is approximately 243 Earth days, not 18 hours.",
+        "Jupiter is the fastest-spinning planet in the solar system, with a rotation period of about 10 hours."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Amazon River flows from east to west across South America and empties into the Pacific Ocean along the coast of Peru.",
+      "support": [
+        "The Amazon River originates in the Andes Mountains of Peru, which is part of South America."
+      ],
+      "attack": [
+        "The Amazon River flows primarily from west to east, not east to west, across South America.",
+        "The Amazon River empties into the Atlantic Ocean near the northern coast of Brazil, not the Pacific Ocean.",
+        "The Pacific Ocean is located on the western coast of South America, far from the Amazon River's mouth."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "Diamonds are formed when coal deposits are struck by lightning underground, with the electrical current compressing the carbon atoms into crystalline structures over a period of several weeks.",
+      "support": [
+        "Diamonds are composed of carbon, which can originate from organic sources like coal, though this is not the primary source."
+      ],
+      "attack": [
+        "Diamonds form under extreme pressure and temperature deep in the Earth's mantle, not from surface lightning strikes.",
+        "The process of diamond formation takes millions of years, not weeks, due to the slow geological processes involved.",
+        "Lightning produces intense heat but lacks the sustained high pressure required to compress carbon into diamonds.",
+        "Coal deposits primarily form from plant matter over millions of years, not from lightning-induced transformations."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Eiffel Tower was constructed entirely from bronze and was originally intended to serve as a giant sundial, with its shadow marking the hours on numbered stones arranged in a circle around its base.",
+      "support": [],
+      "attack": [
+        "The Eiffel Tower was constructed primarily from wrought iron, not bronze, as evidenced by historical records and material analysis of the structure.",
+        "The original purpose of the Eiffel Tower was as a temporary exhibition structure for the 1889 World's Fair, not as a sundial, per documented architectural plans and historical accounts.",
+        "No credible historical or archaeological evidence supports the claim that the Eiffel Tower's shadow was intended to mark hours on stones around its base."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Declaration of Independence was signed by all 56 delegates on July 4th, 1776 in Philadelphia, with Benjamin Franklin using a special red ink made from crushed beetles imported from the Caribbean colonies to make the signatures more resistant to fading.",
+      "support": [
+        "The Declaration of Independence was indeed signed in Philadelphia, though not on July 4th."
+      ],
+      "attack": [
+        "The Declaration was officially adopted on July 4th, 1776, but the signing ceremony occurred later on August 2nd.",
+        "Not all 56 delegates signed the document immediately; some signed later, and a few never signed at all.",
+        "Historical records indicate the ink used was standard iron gall ink, not a special red ink made from crushed beetles."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human brain uses 100% of its capacity during sleep, which is why people who get less than 4 hours of sleep per night demonstrate superior problem-solving abilities compared to those who sleep 8 hours or more.",
+      "support": [
+        "The claim misinterprets brain activity during sleep, as neuroimaging shows reduced metabolic activity and specific regions are less active during sleep compared to wakefulness."
+      ],
+      "attack": [
+        "The brain does not use 100% capacity during sleep; studies show reduced neural activity and energy consumption compared to wakefulness.",
+        "Sleep deprivation impairs cognitive functions like problem-solving, not enhances them, as evidenced by research on sleep-deprived individuals showing decreased performance in complex tasks.",
+        "The comparison between 4-hour and 8-hour sleepers is not supported by empirical studies, which generally recommend 7-9 hours for optimal cognitive function.",
+        "The causal link between minimal sleep and superior problem-solving is unfounded, as chronic sleep restriction is associated with long-term cognitive decline."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "Penguins are found in their natural habitat on every continent including Asia, where colonies of Emperor penguins breed along the coastlines of Japan and Indonesia during the winter months.",
+      "support": [],
+      "attack": [
+        "Emperor penguins are exclusively native to Antarctica, not Asia, and do not breed in Japan or Indonesia.",
+        "Japan and Indonesia are located in the Northern Hemisphere, while Emperor penguin breeding occurs in the Southern Hemisphere's Antarctic region.",
+        "No verified records exist of Emperor penguin colonies breeding along Japan or Indonesia's coastlines during winter months."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human skeleton contains 187 bones at birth, but as children grow, some bones split apart through a process called ossification, resulting in the 206 bones found in adults.",
+      "support": [],
+      "attack": [
+        "The human skeleton actually has 270 bones at birth, not 187, as many bones are cartilaginous and later fuse into fewer bones.",
+        "Ossification refers to bone formation, not splitting; bones fuse during growth, reducing the total count from birth to adulthood.",
+        "The process of bone fusion, not splitting, accounts for the reduction from approximately 270 bones at birth to 206 in adults."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "Mount Everest grows approximately 15 inches taller each year due to volcanic activity deep beneath the Himalayan mountain range, which continuously pushes magma upward into the mountain's core.",
+      "support": [
+        "Some studies suggest tectonic uplift in the Himalayas occurs at rates of 2-5 mm/year, which could theoretically accumulate to inches over millennia, though not 15 inches annually.",
+        "Volcanic activity in the region, such as the Toba supervolcano, may contribute to geothermal processes that indirectly influence mountain dynamics."
+      ],
+      "attack": [
+        "Scientific consensus attributes Everest's growth primarily to tectonic plate collision, not magma-driven uplift, with annual growth rates estimated at ~4-6 mm/year.",
+        "The claim conflates tectonic uplift with volcanic activity; the Himalayas are a collision zone, not a volcanic arc, and no active magma chambers are known beneath Everest.",
+        "The 15-inch annual growth rate is inconsistent with geological data, which shows much slower uplift rates over decades, not rapid volcanic expansion."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The speed of sound travels faster through air than through water because air molecules are more tightly packed together, allowing sound waves to propagate at approximately 343 meters per second in air compared to only 150 meters per second in water.",
+      "support": [],
+      "attack": [
+        "Water molecules are more tightly packed than air molecules, which allows sound waves to propagate faster in water than in air.",
+        "The speed of sound in water is approximately 1500 meters per second, not 150 meters per second, making the claim's data inaccurate.",
+        "The claim incorrectly states that air molecules are more tightly packed, which is the opposite of the actual physical arrangement of molecules in air versus water."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The musical instrument known as the violin has exactly 47 strings arranged in seven groups, with each group tuned to a different note to create the instrument's distinctive harmonic range that revolutionized orchestral music in the 1600s.",
+      "support": [
+        "N/A"
+      ],
+      "attack": [
+        "The violin is a standard four-stringed instrument, not 47 strings, making the claim about the number of strings factually incorrect.",
+        "The concept of 47 strings arranged in seven groups is inconsistent with the violin's actual design and historical development.",
+        "The violin's revolutionary impact on orchestral music in the 1600s is attributed to its four-string design and playing techniques, not an unconventional 47-string configuration."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The modern typewriter keyboard layout known as QWERTY was specifically designed to slow down typists because early mechanical typewriters would jam if adjacent keys were pressed in rapid succession, so the most commonly used letter pairs were deliberately placed far apart from each other.",
+      "support": [
+        "The QWERTY layout was originally designed to prevent mechanical jams in early typewriters by separating commonly used letter pairs.",
+        "Historical records indicate that the layout's design aimed to reduce the likelihood of typebars colliding when adjacent keys were pressed rapidly.",
+        "The placement of frequent letter pairs (e.g., 'Q' and 'W') far apart aligns with the theory of slowing typists to avoid jams."
+      ],
+      "attack": [
+        "Modern research suggests that typewriter jams were not primarily caused by adjacent key presses, undermining the core premise of the claim.",
+        "Alternative theories propose that QWERTY was designed to protect the financial interests of its inventor rather than prevent mechanical issues.",
+        "The layout's persistence is more attributable to its adoption and standardization than to its original functional purpose."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The average honeybee must visit approximately 50,000 flowers to produce a single tablespoon of honey, and each bee colony maintains exactly one queen who lives for 12 months before being replaced through a democratic voting process where worker bees tap their antennae in specific patterns to cast ballots.",
+      "support": [
+        "Honeybees typically visit around 50,000 flowers to produce one tablespoon of honey, as nectar collection requires significant effort to concentrate the sugar content.",
+        "Queen bees generally live for about 12 months, aligning with their role as the sole reproductive member of the colony.",
+        "Worker bees do engage in behaviors like antennae tapping to communicate, though the claim of a 'democratic voting process' for queen replacement is an oversimplification of complex chemical signaling."
+      ],
+      "attack": [
+        "The 'democratic voting process' via antennae tapping is a myth; queen replacement involves pheromonal cues and worker bees feeding a new queen, not structured ballots.",
+        "The exact number of flower visits (50,000) is an approximation, as honey production varies by flower type, climate, and hive conditions.",
+        "While most colonies have one queen, some may temporarily have multiple queens during swarming or queenless periods, contradicting 'exactly one queen.'"
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The national flag of Switzerland is the only square-shaped national flag in the world, as all other countries use rectangular flags with a standardized 2:3 ratio of height to width mandated by the United Nations Flag Convention of 1947.",
+      "support": [],
+      "attack": [
+        "The Vatican City's national flag is also square, contradicting the claim that Switzerland is the only square-flagged nation.",
+        "The United Nations has never mandated a 2:3 ratio for national flags; this is a misconception.",
+        "Several other countries, such as Belgium and Luxembourg, use square or near-square flags.",
+        "The Swiss flag is square, but the claim ignores the existence of other square national flags."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The invention of the refrigerator in 1842 led to the extinction of the ice harvesting profession within six months, as all 12,000 ice houses operating across North America were abandoned and converted into grain storage facilities by the end of that same year.",
+      "support": [
+        "The invention of the refrigerator in 1842 (if accurate) could have theoretically disrupted ice harvesting by providing an alternative to ice storage."
+      ],
+      "attack": [
+        "The first practical refrigeration machines were not developed until the 1850s, making 1842's invention likely inaccurate or non-functional.",
+        "The ice harvesting industry declined gradually over decades, not abruptly within six months, due to slow technological adoption and seasonal demand.",
+        "Converting 12,000 ice houses globally to grain storage in six months is implausible, as such a massive shift would require years of infrastructure and economic transition.",
+        "Historical records show ice harvesting persisted well into the late 19th century, contradicting the claim of extinction by 1842."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The domestic cat has a specialized organ called the preorbital gland located just above each eye that produces a pheromone used to mark territory, which is why cats instinctively rub their foreheads against objects and people to establish ownership and create scent maps of their environment.",
+      "support": [
+        "Domestic cats possess facial scent glands, including those near the eyes, which secrete pheromones used for territorial marking.",
+        "The act of head rubbing (bunting) by cats releases pheromones from facial glands, including preorbital regions, to mark territory and communicate.",
+        "Pheromone production in facial glands is well-documented in felines, aligning with the claim about preorbital glands."
+      ],
+      "attack": [
+        "The primary scent glands for territorial marking in cats are located on the cheeks and between the toes, not the preorbital area.",
+        "The term 'preorbital gland' is not widely recognized in veterinary or zoological literature, suggesting potential terminology confusion.",
+        "Cats may rub their heads for reasons beyond territorial marking, such as comfort or social bonding, not exclusively pheromone-based communication."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Mississippi River reverses its flow direction twice daily due to tidal forces from the Gulf of Mexico, with water flowing northward toward Minnesota during high tide and resuming its southward flow during low tide, a phenomenon that has been occurring since the river formed 5 million years ago.",
+      "support": [
+        "The Mississippi River's flow is influenced by the Gulf of Mexico's tides near its mouth, though not the entire river reverses direction."
+      ],
+      "attack": [
+        "Tidal forces in the Gulf of Mexico are too weak to reverse the Mississippi River's flow over its entire 2,300-mile length.",
+        "The Mississippi River's flow is primarily driven by freshwater discharge from its watershed, not tidal forces.",
+        "The river's direction has remained predominantly southward for millions of years, with no evidence of daily reversals.",
+        "Tidal effects in the Gulf of Mexico are minimal (less than 1 meter amplitude) and cannot cause significant flow reversals in a large river like the Mississippi."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The process of photosynthesis in plants releases carbon dioxide into the atmosphere while absorbing oxygen from the air, which is the opposite of cellular respiration in animals and explains why forests contribute to increased greenhouse gas concentrations.",
+      "support": [],
+      "attack": [
+        "Photosynthesis absorbs carbon dioxide and releases oxygen, contrary to the claim that it releases CO2.",
+        "Forests act as carbon sinks, absorbing CO2 and reducing greenhouse gas concentrations, not increasing them.",
+        "Cellular respiration in animals consumes oxygen and releases CO2, while photosynthesis does the opposite, making the two processes directly complementary, not opposite in the described way.",
+        "The claim conflates the net effect of ecosystems with individual biological processes, ignoring that forests overall sequester carbon over time.",
+        "The assertion that photosynthesis contributes to increased greenhouse gases is factually incorrect, as it removes CO2 from the atmosphere."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The periodic table of elements is organized by atomic weight from lightest to heaviest, which is why hydrogen appears in the top left corner and oganesson in the bottom right, with each element weighing exactly twice as much as the element immediately preceding it in the sequence.",
+      "support": [
+        "Hydrogen has the lowest atomic weight (≈1) and is positioned at the top left, while oganesson (element 118) has the highest known atomic weight (≈294) and is at the bottom right."
+      ],
+      "attack": [
+        "The periodic table is primarily organized by atomic number, not atomic weight, with exceptions like tellurium (atomic number 52) appearing before iodine (53) despite higher atomic weight.",
+        "Elements do not increase in atomic weight by exactly twice each time; for example, lithium (≈7) is not exactly twice helium (≈4), and heavier elements deviate further from this pattern.",
+        "The arrangement of elements is based on electron configuration and chemical properties, not a strict atomic weight sequence, as seen in the placement of transition metals and lanthanides."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human tongue is divided into distinct regions called taste zones, with sweetness detected only at the tip, bitterness exclusively at the back, saltiness along the sides, and sourness detected in two small patches located halfway between the tip and the back, a mapping system that has been confirmed through neurological studies since the 1950s.",
+      "support": [
+        "The original 1950s studies by Dr. Dwight Morehouse popularized the taste zone theory, which was widely accepted for decades."
+      ],
+      "attack": [
+        "Modern research shows taste receptors for all basic tastes (sweet, salty, sour, bitter, umami) are distributed across the entire tongue, not confined to specific zones.",
+        "Neurological studies since the 1970s have demonstrated that individual taste buds contain all five taste receptor types, invalidating the zone-specific model.",
+        "The taste zone theory was based on flawed methodologies that misinterpreted localized taste responses as exclusive regions.",
+        "Current scientific consensus rejects the taste map concept, emphasizing that taste perception is a complex, overlapping process involving the whole tongue."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The modern microwave oven works by generating radio waves that specifically target and vibrate only the water molecules in food, which is why completely dry items like crackers or pasta cannot be heated in a microwave regardless of how long they are exposed to the radiation.",
+      "support": [
+        "Microwaves operate by emitting electromagnetic waves that cause polar molecules, like water, to vibrate and generate heat through dielectric heating.",
+        "Water molecules are highly polar and efficiently absorb microwave energy, making them the primary target for heating in microwave ovens.",
+        "Dry items with minimal water content, such as crackers or pasta, lack sufficient polar molecules to absorb significant microwave energy, resulting in limited heating."
+      ],
+      "attack": [
+        "Microwave energy can also be absorbed by other polar molecules like sugars and proteins, allowing some heating of dry items if they contain trace moisture.",
+        "Prolonged exposure to microwaves can still cause minor heating of dry items due to residual energy absorption and thermal conduction from adjacent heated materials.",
+        "The claim's absoluteness is flawed, as microwaves can heat dry items to some extent, albeit inefficiently, depending on their composition and exposure time."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The game of chess originated in ancient Egypt around 3000 BCE, where it was played exclusively by pharaohs using pieces carved from hippopotamus ivory, and the modern knight piece still moves in an L-shape to commemorate the angular hieroglyphic symbol for \"royal horse\" used in the original Egyptian version.",
+      "support": [],
+      "attack": [
+        "Chess originated in India around 600 BCE as Chaturanga, not Egypt, with archaeological evidence from the 6th century BCE.",
+        "The earliest known chess pieces date to Persia (6th century CE), not ancient Egypt, and no Egyptian chess artifacts from 3000 BCE have been discovered.",
+        "The L-shaped knight move in chess is derived from medieval European interpretations of the knight's role, not from Egyptian hieroglyphs.",
+        "Hippopotamus ivory was not commonly used for chess pieces in ancient Egypt, as hippopotamuses were more prevalent in the Nile Delta and not typically domesticated for such purposes.",
+        "The claim conflates unrelated historical elements, as no credible sources link Egyptian hieroglyphs to the knight's movement or pharaonic chess practices."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The ancient Roman Colosseum was constructed with a retractable wooden roof that could be opened and closed in under 10 minutes using a system of pulleys operated by 500 slaves stationed in underground chambers, allowing events to continue regardless of weather conditions.",
+      "support": [
+        "Historical accounts suggest the Colosseum's upper tier had a wooden roof that could be removed, allowing for weather adaptability.",
+        "Ancient Roman engineering included complex mechanisms, such as pulleys and levers, which could theoretically enable rapid roof adjustments.",
+        "The hypogeum (underground chambers) housed slaves and machinery, supporting the possibility of slave-operated systems for large-scale tasks."
+      ],
+      "attack": [
+        "Archaeological evidence does not confirm a retractable roof system, with most findings indicating a fixed or removable wooden structure, not a dynamic one.",
+        "The claim of 500 slaves operating the roof is implausible, as the hypogeum's primary purpose was for gladiators and animals, not mechanical labor.",
+        "The time frame of under 10 minutes for opening/closing is inconsistent with ancient materials and technology, which lacked the precision for such rapid mechanisms."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human liver is the only internal organ incapable of regenerating damaged tissue, which is why liver disease always requires a full transplant and partial liver donations are medically impossible.",
+      "support": [],
+      "attack": [
+        "The liver can regenerate up to 70% of its mass within weeks, contradicting the claim that it is incapable of tissue regeneration.",
+        "Partial liver transplants are medically possible, as a portion of a healthy liver can be donated and function in the recipient.",
+        "Other organs, such as the skin, heart, and kidneys, also have limited regenerative capabilities, refuting the idea that the liver is the only organ incapable of regeneration.",
+        "Liver disease does not always require a full transplant; treatments like medication or partial transplants can sometimes reverse or manage damage."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The process of making glass involves heating sand to extremely high temperatures and then rapidly cooling it with liquid nitrogen, which is why all glass manufactured before 1955 appears slightly green due to the absence of modern cryogenic cooling technology.",
+      "support": [
+        "The green tint in pre-1955 glass is commonly attributed to trace iron impurities in raw materials, which aligns with historical reliance on natural sand sources."
+      ],
+      "attack": [
+        "Liquid nitrogen cooling is not a standard or historically documented step in traditional glass manufacturing processes.",
+        "The green color in older glass is primarily caused by iron oxide impurities, not the absence of cryogenic cooling technology.",
+        "Modern glassmaking does not require liquid nitrogen for cooling, as conventional kiln cooling methods suffice for desired properties."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Japanese art of origami was invented in 1923 by a Tokyo mathematics professor named Hiroshi Tanaka who discovered that folding paper in specific geometric sequences could create three-dimensional shapes, and the traditional paper crane design contains exactly 47 individual folds that must be completed in precise order.",
+      "support": [
+        "Hiroshi Tanaka did contribute to the mathematical study of origami in the early 20th century, aligning with the 1923 timeframe.",
+        "The traditional paper crane is often cited as a complex origami design requiring precise folding steps, though the exact number of folds may vary by technique."
+      ],
+      "attack": [
+        "Origami has ancient roots in Japan, predating 1923 by over a millennium, contradicting the claim of its invention in that year.",
+        "Hiroshi Tanaka is not a historically recognized figure in origami's development; the name and details likely conflate multiple contributors.",
+        "The exact number of folds required for a paper crane (e.g., 47) is not universally standardized and varies depending on the folding method used."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The continent of Antarctica was discovered in 1820 by Russian explorers, but due to the extreme cold, no human set foot on the continent until 1947 when Norwegian scientists developed heated boots that could withstand temperatures below -50°F for more than 20 minutes.",
+      "support": [],
+      "attack": [
+        "Antarctica was first sighted by the Russian expedition of Fabian Gottlieb von Bellingshausen and Mikhail Lazarev in 1820, but they did not land on the continent.",
+        "The first confirmed landing on Antarctica was achieved by the British expedition led by James Clark Ross in 1841, not 1947.",
+        "Heated boots were not necessary in 1947, as early explorers survived extreme Antarctic cold using layered clothing, tents, and other survival techniques.",
+        "The claim conflates the discovery of Antarctica with the development of technology to withstand its climate, which is historically inaccurate."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The first postage stamp, known as the Penny Black, was issued in Britain in 1840 and featured a portrait of Queen Victoria facing right, establishing the tradition that each subsequent British monarch must face the opposite direction of their predecessor on all stamps and coins, which is why Queen Elizabeth II faces left on all official currency.",
+      "support": [
+        "The Penny Black, issued in 1840, was the first adhesive postage stamp and featured Queen Victoria facing right, as historically documented.",
+        "Queen Elizabeth II’s portrait on British stamps and coins faces left, aligning with the claim’s assertion of alternating directions from her predecessor, Queen Victoria.",
+        "The tradition of alternating monarch portraits’ orientations on stamps is widely recognized in British numismatic history."
+      ],
+      "attack": [
+        "The claim that monarchs must strictly alternate directions is not a formal rule but rather a stylistic convention with exceptions, such as King George VI’s portrait facing right, same as Victoria.",
+        "The direction of monarchs on coins is not governed by the same tradition as stamps, as coins often use standardized designs regardless of orientation.",
+        "The assertion that Queen Elizabeth II faces left solely due to this tradition ignores other design factors, such as artistic choices or practical considerations."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human fingerprint pattern remains completely unchanged throughout a person's lifetime except during pregnancy, when women temporarily develop smooth fingertips due to increased estrogen levels causing the ridges to flatten out, only to have their original prints return within six weeks after giving birth.",
+      "support": [
+        "Some studies suggest that hormonal changes during pregnancy may cause temporary alterations in skin texture, which could indirectly affect fingerprint patterns in rare cases."
+      ],
+      "attack": [
+        "Fingerprint patterns are generally considered permanent and are formed during fetal development, with no conclusive evidence of temporary changes during pregnancy.",
+        "The claim conflates general skin texture changes (e.g., increased softness) with actual fingerprint pattern alterations, which are distinct and not caused by estrogen alone.",
+        "There is no widely accepted scientific consensus or peer-reviewed research supporting the idea that fingerprints revert to their original state within six weeks postpartum."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Sahara Desert was entirely covered by a dense tropical rainforest until 1789, when a series of massive volcanic eruptions in central Africa caused the climate to shift abruptly, transforming the entire region into an arid desert within a span of just 23 years.",
+      "support": [
+        "The Sahara Desert has not been a tropical rainforest in recent geological history, as its arid climate has persisted for thousands of years."
+      ],
+      "attack": [
+        "The Sahara Desert's formation as a desert began around 5,000 years ago due to shifts in Earth's axial tilt and ocean currents, not volcanic eruptions in 1789.",
+        "Volcanic eruptions in central Africa during the 18th century had localized climatic effects but could not abruptly transform an entire desert into a rainforest within 23 years.",
+        "Tropical rainforests require consistent high rainfall and humidity, which are incompatible with the Sahara's current and historical arid conditions."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human eye can see approximately 7 million distinct colors because it contains seven different types of cone cells in the retina, with each cone type responsible for detecting one specific color of the rainbow, which is why people who are colorblind are missing one or more of these seven cone varieties.",
+      "support": [],
+      "attack": [
+        "The human retina contains only three types of cone cells (red, green, blue), not seven, which are responsible for color vision through combination, not individual color detection.",
+        "The claim conflates the seven colors of the rainbow with seven distinct cone types, which is inaccurate as cone sensitivity overlaps and varies continuously across wavelengths.",
+        "Colorblindness results from deficiencies in one or more of the three cone types, not seven, and the claim's premise about seven cone varieties is scientifically unfounded.",
+        "The perception of 7 million colors arises from combinations of cone responses and neural processing, not from seven distinct cone types each detecting a single color."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The process of making champagne requires that the bottles be stored upside down at a precise 47-degree angle for exactly 90 days, during which time specialized workers called tourneurs must rotate each bottle one-quarter turn clockwise every morning at dawn to prevent the yeast sediment from adhering permanently to the glass.",
+      "support": [
+        "The riddling process in champagne production does involve rotating bottles to collect yeast sediment, though the exact angle and duration may vary by producer.",
+        "Specialized workers called tourneurs are indeed responsible for manually rotating bottles during the aging process to manage sediment."
+      ],
+      "attack": [
+        "The claim of a precise 47-degree angle and 90-day timeline is not universally standardized in champagne production, as riddling typically takes 15–20 days and angles vary.",
+        "The requirement to rotate bottles one-quarter turn daily at dawn is overly specific and not a documented standard in champagne-making practices.",
+        "Modern champagne producers often use mechanical riddling machines rather than manual rotation by tourneurs for efficiency and consistency."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The saxophone is classified as a brass instrument rather than a woodwind instrument because it is constructed entirely from metal alloys, and its inventor Adolphe Sax originally designed it in 1846 to replace trumpets in military bands by combining the bell shape of brass instruments with a reed mouthpiece.",
+      "support": [
+        "The saxophone's body is constructed from metal alloys, which aligns with the physical characteristics of brass instruments.",
+        "Adolphe Sax designed the saxophone to incorporate elements of brass instruments, such as the bell shape, which supports the claim of its brass-like construction."
+      ],
+      "attack": [
+        "The saxophone is classified as a woodwind instrument due to its reed mouthpiece, which is a defining feature of woodwinds, not brass instruments.",
+        "Instrument classification is based on playing mechanism (reed vs. lip vibration) rather than material composition, rendering the metal construction irrelevant to its classification.",
+        "The saxophone's design was intended to replace trumpets in military bands, but this does not alter its classification as a woodwind instrument based on its reed-based sound production."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human stomach completely replaces its entire lining every 72 hours by shedding the old mucous membrane in one continuous sheet during sleep, which is then dissolved by gastric acid and expelled from the body within 6 hours of waking.",
+      "support": [
+        "The human stomach lining does undergo continuous cellular renewal, with some cells replacing every few days."
+      ],
+      "attack": [
+        "The claim of a complete 72-hour lining replacement is unsupported by scientific evidence; gastric epithelial turnover occurs over 3-5 days, not in a single continuous sheet.",
+        "Gastric acid would not dissolve a shed mucous membrane sheet without causing severe self-digestion, contradicting the stomach's protective mechanisms.",
+        "There is no documented physiological process where the entire lining is expelled within 6 hours of waking, as this would compromise digestive function."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The international date line runs directly through the center of the Atlantic Ocean at exactly 0 degrees longitude, which is why countries in Western Europe are always one calendar day ahead of countries in North America regardless of their time zone.",
+      "support": [],
+      "attack": [
+        "The International Date Line is primarily located in the Pacific Ocean, not the Atlantic, and does not pass through 0 degrees longitude.",
+        "The time difference between Western Europe and North America is due to time zones, not the International Date Line, and varies depending on specific regions.",
+        "The claim conflates the Prime Meridian (0 degrees longitude) with the International Date Line, which are distinct geographical features.",
+        "The International Date Line's purpose is to manage date changes across time zones, not to dictate time differences between continents.",
+        "Countries in Western Europe and North America are not always one calendar day ahead; this varies based on their specific time zones and daylight saving adjustments."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Leaning Tower of Pisa was constructed intentionally at its famous tilt as a architectural demonstration of mathematical principles, with builders using precisely calculated asymmetrical foundation depths on opposite sides to achieve the exact 5.5 degree angle that has remained constant since its completion in 1372.",
+      "support": [],
+      "attack": [
+        "Historical records indicate the Leaning Tower of Pisa began tilting during construction due to unstable foundation soil, not intentional design.",
+        "The asymmetrical foundation depths were a result of builders attempting to correct the tilt, not a deliberate mathematical demonstration.",
+        "The 5.5-degree angle stabilized naturally over time due to soil compression, not precise engineering calculations.",
+        "Architectural analysis shows the tilt was an unintended consequence, not a planned feature of the design."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The human body produces vitamin D exclusively through the consumption of dairy products and fortified cereals, which is why populations in sunny equatorial regions who lack access to refrigerated milk have the highest rates of vitamin D deficiency in the world.",
+      "support": [
+        "Populations in equatorial regions may lack access to refrigerated dairy, which could limit their dietary intake of vitamin D."
+      ],
+      "attack": [
+        "The human body synthesizes vitamin D primarily through sunlight exposure, not exclusively via diet, contradicting the claim's premise.",
+        "Equatorial regions with abundant sunlight should have lower vitamin D deficiency rates, yet the claim incorrectly attributes high rates to dietary factors.",
+        "Fortified cereals and dairy are not the only dietary sources of vitamin D; fatty fish, eggs, and sunlight exposure also contribute significantly."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Grand Canyon was formed over a six-month period in 1902 when an earthquake caused the Colorado River to suddenly drain Lake Powell, with the rushing water carving the mile-deep gorge through solid granite at a rate of approximately 15 feet per hour.",
+      "support": [],
+      "attack": [
+        "The Grand Canyon's formation is a geological process that took millions of years, not six months, due to gradual erosion by the Colorado River.",
+        "Lake Powell was created by the Glen Canyon Dam in 1963, long after 1902, making the claim about its drainage during an earthquake in 1902 factually impossible.",
+        "Erosion rates of 15 feet per hour would require an unrealistic volume of water and time to carve a mile-deep gorge, contradicting established geological data.",
+        "No historical records or scientific evidence support the occurrence of an earthquake in 1902 that caused Lake Powell to drain and form the Grand Canyon."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Gutenberg printing press used movable type made from hardened clay tablets that had to be baked in a kiln for 48 hours before each use, which limited early printers to producing no more than three pages per week and explains why books remained rare until metal type was invented in 1789.",
+      "support": [
+        "N/A"
+      ],
+      "attack": [
+        "Gutenberg's movable type was made of metal alloys, not hardened clay tablets, as evidenced by historical records and surviving printing elements.",
+        "The claim incorrectly states that metal type was invented in 1789; Gutenberg's metal type was developed in the mid-15th century (c. 1440s).",
+        "Early printers using Gutenberg's press could produce hundreds of pages per day, not limited to three pages per week, due to efficient metal type and press mechanics.",
+        "Clay tablets would degrade rapidly and require frequent replacement, making the 48-hour baking process impractical for continuous printing."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The Great Pyramid of Giza was constructed using over 2.3 million limestone blocks that were transported from quarries by rolling them on logs, and each block had to be perfectly cubic in shape with all sides measuring exactly 1.5 meters to ensure the pyramid's structural stability, which is why ancient Egyptian engineers rejected approximately 40% of quarried stones for having irregular dimensions.",
+      "support": [
+        "Archaeological estimates confirm the Great Pyramid used around 2.3 million limestone blocks, aligning with the claim's scale.",
+        "Transporting massive stones via rolling them on logs is a plausible method supported by historical and experimental evidence.",
+        "Standardized block dimensions could have improved structural stability, though exact measurements may vary slightly."
+      ],
+      "attack": [
+        "The claim that all blocks were perfectly cubic with 1.5-meter sides is inaccurate; blocks varied in size and shape to fit the pyramid's design.",
+        "There is no credible evidence supporting a 40% rejection rate for irregular stones; such a high rate would have made construction impractical.",
+        "Ancient Egyptian engineering prioritized functional fit over rigid geometric perfection, suggesting less strict dimensional requirements."
+      ],
+      "label": "False"
+    },
+    {
+      "claim": "The construction of Angkor Wat required a sophisticated hydraulic engineering system that manipulated monsoon waters through now-buried channels extending over fifty kilometers into the surrounding jungle.",
+      "support": [
+        "Archaeological evidence reveals extensive reservoirs and canals near Angkor Wat, suggesting advanced water management practices.",
+        "The Khmer Empire's hydraulic infrastructure, including the Ba Phnom Reservoir, demonstrates expertise in controlling monsoon waters.",
+        "Studies indicate that Angkor Wat's moat and surrounding waterways were designed to regulate floodwaters and sustain agriculture.",
+        "Satellite imagery and ground-penetrating radar have identified buried channels consistent with large-scale water diversion systems."
+      ],
+      "attack": [
+        "The claim overstates the scale of the hydraulic system, as no direct evidence confirms 50 km of buried channels.",
+        "Many water features at Angkor Wat, including the moat, may have served primarily ceremonial or defensive purposes rather than purely hydraulic functions.",
+        "The environmental conditions of the region, including seasonal rainfall patterns, may not have supported such an extensive monsoon-driven system.",
+        "Some scholars argue that the hydraulic infrastructure was later modified or repurposed, not necessarily original to Angkor Wat's construction."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The human appendix serves a crucial immunological function by harboring beneficial gut bacteria that repopulate the digestive system after severe gastrointestinal infections, contradicting its classification as a vestigial organ.",
+      "support": [
+        "Research indicates the appendix hosts a diverse microbiome that can repopulate the gut after infections, supporting its immunological role.",
+        "The appendix contains lymphoid tissue that contributes to immune system development and pathogen defense.",
+        "Studies suggest the appendix acts as a 'safe house' for beneficial gut bacteria, aiding recovery from severe gastrointestinal illnesses."
+      ],
+      "attack": [
+        "Appendectomy does not consistently lead to long-term gastrointestinal issues, implying redundancy in gut bacterial colonization.",
+        "The appendix's microbiota may not be functionally distinct from other gut regions, undermining its specialized role.",
+        "Vestigial organ classification is based on evolutionary evidence, not current function, and the appendix's role remains debated in scientific consensus."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The HMS Erebus and Terror expedition members resorted to cannibalism within three months of abandoning ship rather than during the final stages of their Arctic ordeal as traditionally believed.",
+      "support": [
+        "Recent analysis of skeletal remains from the Erebus and Terror suggests signs of cannibalism consistent with early stages of starvation, not just the final months.",
+        "The expeditions' initial food stores were insufficient to sustain the crew for three months, implying early resort to cannibalism.",
+        "Diary entries from surviving crew members (e.g., John Rae's accounts) hint at food shortages and desperate measures within months of abandonment."
+      ],
+      "attack": [
+        "Traditional accounts based on the officers' journals (e.g., Franklin's writings) describe cannibalism as occurring in the final stages of their ordeal.",
+        "The lack of direct evidence, such as explicit records or artifacts, undermines claims of early cannibalism.",
+        "Skeletal remains from the expedition show signs of prolonged starvation, not acute cannibalism, aligning with later-stage survival."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Octopuses have three hearts.",
+      "support": [
+        "Octopuses have three hearts: two pump blood to the gills, and the third pumps it to the rest of the body.",
+        "One of the hearts stops beating when the octopus swims, a unique adaptation for energy conservation.",
+        "Scientific studies confirm the presence of three distinct cardiac chambers in octopus anatomy."
+      ],
+      "attack": [
+        "Some sources may confuse the systemic heart with a pump rather than a true heart, leading to misinterpretation.",
+        "The heart that stops during activity might not be classified as a 'heart' in certain taxonomic contexts.",
+        "Variability in octopus physiology could result in exceptions to the general rule of three hearts."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "Sharks evolved before trees appeared on Earth.",
+      "support": [
+        "Sharks evolved during the Early Paleozoic era (around 450-500 million years ago), while the first land plants appeared later (around 470 million years ago).",
+        "The earliest known sharks, like *Haikouichthys*, predate the emergence of terrestrial vegetation by tens of millions of years.",
+        "Fossil records show shark ancestors existed in the Cambrian period, whereas the first trees (vascular plants) appeared in the Silurian period."
+      ],
+      "attack": [
+        "The claim conflates 'trees' with all land plants; early land plants (e.g., mosses) appeared before sharks, but true trees evolved later.",
+        "Some shark species evolved after the first trees, so the claim depends on the specific shark and tree species referenced.",
+        "Radiometric dating of fossils can vary, and some studies suggest overlapping timelines for early sharks and land plants."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "A solar day on Mercury is longer than a Mercurian year.",
+      "support": [
+        "Mercury's solar day is approximately 176 Earth days, while its orbital period (year) is about 88 Earth days, making the solar day longer.",
+        "Mercury's 3:2 spin-orbit resonance causes its solar day to be twice its orbital period, directly supporting the claim.",
+        "Observational data confirms Mercury's solar day is longer than its year due to its unique rotational dynamics."
+      ],
+      "attack": [],
+      "label": "True"
+    },
+    {
+      "claim": "Tardigrades have survived direct exposure to the vacuum of space in experiments.",
+      "support": [
+        "In 2007, the European Space Agency's Tardigrade Experiment confirmed that dehydrated tardigrades survived exposure to the vacuum of space for 10 days.",
+        "Tardigrades enter a state of cryptobiosis, which allows them to survive extreme conditions like desiccation and vacuum by drastically reducing metabolic activity.",
+        "Post-experiment analysis showed that approximately 68% of tardigrades exposed to space vacuum retained viability, as reported in peer-reviewed studies."
+      ],
+      "attack": [
+        "The 2007 experiment involved short-term exposure (10 days) and did not account for prolonged space radiation, which could affect survival rates.",
+        "Survival was observed only in dehydrated tardigrades, suggesting vacuum alone may not be the sole factor in their survival.",
+        "Some studies argue that the experimental conditions (e.g., controlled temperature, partial vacuum) may not fully replicate the harsh environment of outer space."
+      ],
+      "label": "True"
+    },
+    {
+      "claim": "The Voynich Manuscript encodes a meaningful natural language rather than a hoax or nonsense text.",
+      "support": [
+        "Studies suggest the text exhibits structural patterns consistent with natural languages, such as recurring symbol sequences and statistical regularities.",
+        "The manuscript's age (15th century) and complexity imply intentional design rather than random fabrication.",
+        "Some researchers argue the text's plant illustrations and astronomical diagrams align with known symbolic systems, suggesting encoded knowledge.",
+        "The lack of a clear hoax motive or evidence of modern forgery supports its authenticity as an ancient text."
+      ],
+      "attack": [
+        "No known language has been definitively deciphered, casting doubt on its status as a meaningful natural language.",
+        "The script lacks phonetic or semantic features of known languages, such as consistent grammar or vocabulary.",
+        "The text's lack of coherent meaning after centuries of study undermines claims of it encoding a real language.",
+        "The possibility of it being a cipher for a known language remains unproven, leaving it indistinguishable from nonsense."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Indus script represents a fully linguistic writing system.",
+      "support": [
+        "The Indus script exhibits structural complexity, including repeated symbols and patterns, which are characteristic of linguistic systems.",
+        "Some scholars argue that the script's use on seals and artifacts suggests it was used for record-keeping, a function typically associated with writing systems.",
+        "The presence of a large number of distinct symbols (over 400) implies a capacity for encoding meaning, a feature of linguistic writing."
+      ],
+      "attack": [
+        "The script remains undeciphered, leaving its linguistic status unconfirmed and open to speculation.",
+        "Lack of bilingual inscriptions or direct correlations with known languages undermines claims of a fully linguistic system.",
+        "The absence of grammatical or syntactic structures in decoded fragments weakens the argument for a complete linguistic system."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The disappearance of the Roanoke colonists was mainly due to their assimilation into nearby Indigenous communities.",
+      "support": [
+        "Archaeological evidence suggests cultural exchanges between Roanoke colonists and Indigenous groups in the region.",
+        "Colonist John White's accounts mention potential interactions with Native American tribes, hinting at possible integration.",
+        "The absence of clear evidence for warfare or disease outbreaks weakens alternative explanations for the colony's disappearance."
+      ],
+      "attack": [
+        "There is no conclusive evidence that Roanoke colonists were absorbed into Indigenous communities, as no genetic or linguistic traces have been definitively identified.",
+        "The theory relies heavily on speculative interpretations of sparse historical records, including John White's incomplete accounts.",
+        "Other plausible explanations, such as conflict with Native Americans or environmental collapse, remain more widely supported by historical analysis."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Younger Dryas cooling event was triggered by a comet or asteroid impact.",
+      "support": [
+        "Evidence of nanodiamonds and iridium-rich layers in sediments from the Younger Dryas period aligns with extraterrestrial impact signatures.",
+        "The timing of the Younger Dryas cooling coincides with the hypothesized impact event, suggesting a possible causal link.",
+        "Impact-induced wildfires could have released massive soot into the atmosphere, temporarily cooling the climate."
+      ],
+      "attack": [
+        "The presence of nanodiamonds and iridium could be explained by volcanic activity or terrestrial processes, not necessarily an impact.",
+        "The Younger Dryas cooling is more consistently explained by freshwater discharge from melting ice sheets disrupting ocean currents.",
+        "The proposed impact event lacks definitive dating, making it difficult to establish a direct causal relationship with the cooling period."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Planet Nine exists beyond Neptune.",
+      "support": [
+        "Observational data on distant Kuiper Belt objects suggest gravitational anomalies consistent with a massive planet's influence.",
+        "Simulations indicate a hypothetical Planet Nine could explain the orbital clustering of trans-Neptunian objects.",
+        "The existence of Planet Nine aligns with the hypothesis that massive planets form in the outer solar system.",
+        "Indirect detection methods, like gravitational lensing, have historically confirmed exoplanets before direct imaging."
+      ],
+      "attack": [
+        "No direct observational evidence, such as light detection or imaging, has confirmed Planet Nine's existence.",
+        "The clustering of Kuiper Belt objects may result from statistical noise or other gravitational influences, not a hidden planet.",
+        "Proposed orbital parameters for Planet Nine would make it extremely difficult to detect with current technology.",
+        "The hypothesis relies on assumptions about the solar system's formation that are not universally accepted."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Phaistos Disc records a genuine written language.",
+      "support": [
+        "The Phaistos Disc features a consistent pattern of symbols repeated across its surface, suggesting a structured linguistic system.",
+        "Some scholars argue the symbols exhibit phonetic and grammatical elements, akin to known writing systems.",
+        "The disc's complexity and intentional design imply it was created with a purposeful, language-like function."
+      ],
+      "attack": [
+        "No definitive decipherment of the symbols has been achieved, casting doubt on their linguistic validity.",
+        "The symbols lack a clear grammatical structure or consistent phonetic representation, unlike established writing systems.",
+        "The absence of bilingual texts or contextual evidence weakens claims of a genuine, decipherable language."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Copper Scroll from Qumran describes real hidden treasure caches.",
+      "support": [
+        "The Copper Scroll's detailed inventory of specific quantities and locations suggests it was intended as a literal record of real treasures.",
+        "Scholars have noted parallels between the Copper Scroll's descriptions and other ancient texts mentioning hidden wealth, implying historical context.",
+        "The scroll's discovery in the Qumran caves, associated with the Essenes, aligns with the possibility of hidden caches in a secretive community."
+      ],
+      "attack": [
+        "No archaeological evidence has been found to confirm the existence of the treasures described in the Copper Scroll.",
+        "The scroll's unique copper composition and corrosion suggest it may have been a ritual object rather than a practical record of treasure.",
+        "Some scholars argue the text is symbolic or eschatological, reflecting apocalyptic beliefs rather than literal hidden caches."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Sea Peoples were the primary cause of the Late Bronze Age collapse.",
+      "support": [
+        "Egyptian records from the 13th century BCE explicitly mention Sea Peoples raiding coastal cities, aligning with the timeline of the Late Bronze Age collapse.",
+        "Archaeological evidence of widespread destruction and abandonment in the Eastern Mediterranean (e.g., Ugarit, Cyprus) coincides with Sea Peoples' known activities.",
+        "The Sea Peoples' raids disrupted trade networks, weakening economies and contributing to societal instability during the collapse."
+      ],
+      "attack": [
+        "The Sea Peoples' impact may have been secondary to broader factors like climate change, internal conflicts, or economic decline in Bronze Age societies.",
+        "Egyptian texts may have exaggerated the Sea Peoples' role, as they were often portrayed as external threats to justify internal political agendas.",
+        "The collapse was regionally varied, with some areas (e.g., the Levant) experiencing decline without direct evidence of Sea Peoples' involvement."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Dinosaurs were already in long-term decline before the Chicxulub impact.",
+      "support": [
+        "Fossil records show reduced dinosaur diversity and smaller body sizes in the late Cretaceous, suggesting long-term decline before the Chicxulub impact.",
+        "Volcanic activity from the Deccan Traps, which began around 66 million years ago, may have caused environmental stress prior to the Chicxulub impact, contributing to dinosaur decline.",
+        "Some dinosaur lineages, like hadrosaurs and ceratopsians, exhibited population declines in the latest Cretaceous, predating the Chicxulub event.",
+        "Ecological shifts, such as changes in plant communities, indicate environmental instability that could have weakened dinosaur populations before the impact."
+      ],
+      "attack": [
+        "The Chicxulub impact is the most widely accepted cause of the Cretaceous-Paleogene extinction, with evidence of abrupt global effects that likely overwhelmed pre-existing trends.",
+        "Deccan Trap volcanism overlapped with the Chicxulub impact in timing, making it unclear whether volcanic activity or the impact was the primary driver of decline.",
+        "Some dinosaur groups, like theropods, remained abundant and diverse shortly before the impact, challenging the idea of widespread long-term decline.",
+        "The fossil record's incompleteness may obscure gradual declines, leading to misinterpretations of pre-impact dinosaur status."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Antikythera mechanism originally included displays for all five planets known to the ancient Greeks.",
+      "support": [
+        "Archaeological analysis of the Antikythera mechanism's gear system suggests it could model the motions of multiple celestial bodies, including planets.",
+        "The mechanism's inscriptions reference the Moon's phases and eclipses, implying a broader astronomical function that could include planetary tracking.",
+        "Modern reconstructions of the mechanism's design indicate it had the mechanical complexity to simulate the orbits of multiple planets."
+      ],
+      "attack": [
+        "The surviving fragments of the mechanism lack direct evidence of planetary display mechanisms, such as dedicated dials or gears for all five planets.",
+        "The primary purpose of the Antikythera mechanism was likely focused on lunar and solar cycles, with planetary features being an extrapolation beyond confirmed evidence.",
+        "The five planets known to the Greeks (Mercury, Venus, Mars, Jupiter, Saturn) were not uniformly tracked in ancient astronomical devices, making the claim speculative."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Jack the Ripper was Aaron Kosminski.",
+      "support": [
+        "Aaron Kosminski was a Polish immigrant in London during the 1888 Whitechapel murders and had a documented history of mental illness, aligning with descriptions of Jack the Ripper's erratic behavior.",
+        "Forensic analysis of the 'Dear Boss' letter, attributed to Jack the Ripper, showed similarities to Kosminski's handwriting, though authenticity remains debated.",
+        "Kosminski was institutionalized in 1891, and some historians argue his criminal record and antisocial tendencies make him a plausible suspect.",
+        "Eyewitness accounts from his time in London described a man matching his physical appearance and demeanor, though these are circumstantial."
+      ],
+      "attack": [
+        "The 'Dear Boss' letter, often linked to Kosminski, is widely regarded as a forgery by modern experts, undermining its credibility as evidence.",
+        "No direct physical evidence, such as DNA or fingerprints, connects Kosminski to the victims or crime scenes.",
+        "Kosminski's mental health history could be used to dismiss him as a suspect, as it may explain his behavior without confirming guilt.",
+        "The focus on Kosminski may stem from Victorian-era anti-Semitism and xenophobia rather than conclusive evidence."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Cleopatra's tomb is located at Taposiris Magna.",
+      "support": [
+        "Archaeological excavations at Taposiris Magna have uncovered a tomb with a sarcophagus that some scholars associate with Cleopatra due to its proximity to Alexandria and Ptolemaic-era construction.",
+        "The site's association with the worship of Isis, a deity closely linked to Cleopatra's cult, makes it a plausible location for her burial.",
+        "Historical accounts from ancient sources, such as the Roman historian Plutarch, mention Cleopatra's death in Alexandria, which aligns with Taposiris Magna's location near the city."
+      ],
+      "attack": [
+        "No definitive archaeological evidence, such as inscriptions or clear historical records, has conclusively linked Cleopatra's remains to Taposiris Magna.",
+        "The tomb discovered at Taposiris Magna is dated to the late Ptolemaic period but lacks specific markers confirming it belongs to Cleopatra.",
+        "Alternative theories suggest Cleopatra's tomb may lie in the Kom el Shoqafa necropolis or the royal necropolis of Alexandria, which have stronger historical associations with her reign."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Stonehenge's bluestones were brought to Salisbury Plain for their supposed healing power.",
+      "support": [
+        "Ancient British traditions and medieval texts reference bluestones as having spiritual or healing properties, aligning with the claim.",
+        "Bluestones were transported from Wales, a region with historical associations with healing springs and sacred sites.",
+        "The alignment of bluestones with solstices and lunar cycles suggests ritualistic use, which could include healing practices."
+      ],
+      "attack": [
+        "Archaeological evidence prioritizes structural and astronomical functions over healing, with no direct proof of medicinal use.",
+        "The transportation of bluestones was likely due to their acoustic properties and symbolic significance, not healing beliefs.",
+        "Modern interpretations of healing power are speculative, as contemporary records lack explicit references to such uses."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Nazca Lines were primarily ritual walking paths.",
+      "support": [
+        "Some researchers suggest the Nazca Lines were used in ritual processions, as their straight paths could be aligned with celestial events significant to ancient Andean cultures.",
+        "The lines' large scale and visibility from high altitudes imply they may have been designed for ceremonial observation or symbolic pathways for ritual walks.",
+        "Archaeological evidence of ceremonial sites near the lines supports the idea of ritualistic use, including offerings and human sacrifices linked to religious practices."
+      ],
+      "attack": [
+        "The lines are too vast and lack physical features (e.g., footprints, pathways) that would support human traffic, making them impractical as walking routes.",
+        "Most scholars argue the lines were created for astronomical or spiritual purposes, not for human movement, based on their geometric complexity and lack of wear patterns.",
+        "The primary evidence for ritual use comes from speculative interpretations rather than direct archaeological proof, weakening the claim's validity."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Göbekli Tepe was built mainly as a temple complex rather than a settlement.",
+      "support": [
+        "Archaeological findings, such as ritual artifacts and symbolic carvings, suggest Göbekli Tepe was primarily a ceremonial site.",
+        "The circular arrangement of T-shaped pillars aligns with ancient temple designs used for religious gatherings.",
+        "Lack of domestic structures or hearths indicates minimal long-term habitation at the site itself.",
+        "The site's construction by hunter-gatherers implies it served a communal, ritualistic purpose rather than residential.",
+        "Burial practices and animal remains at the site support its role as a sacred space for ceremonies."
+      ],
+      "attack": [
+        "Evidence of nearby settlements and trade networks suggests Göbekli Tepe may have been a regional hub with multiple functions.",
+        "The site's layered construction over centuries indicates prolonged use, challenging the idea of it being solely a temporary temple.",
+        "Some scholars argue the absence of clear residential areas could reflect intentional concealment rather than lack of habitation.",
+        "The labor-intensive construction implies organized social structures, possibly blending settlement and religious roles.",
+        "Debates exist about whether the site's purpose was purely spiritual or included social or economic activities."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Chaco Canyon functioned mainly as a regional pilgrimage center.",
+      "support": [
+        "Archaeological evidence, such as the alignment of structures with celestial events, suggests Chaco Canyon was used for ritualistic and ceremonial purposes.",
+        "The presence of large, centralized buildings like Pueblo Bonito indicates a space designed for gatherings, potentially attracting regional pilgrims.",
+        "Artifacts and trade goods found at Chaco Canyon suggest it served as a hub for regional exchange, which could incentivize pilgrimage for economic or spiritual reasons."
+      ],
+      "attack": [
+        "Some scholars argue Chaco Canyon's primary function was administrative and political, not religious, based on the distribution of artifacts and spatial organization.",
+        "The scale of construction and resource management at Chaco suggests it was a population center rather than a site primarily visited by pilgrims.",
+        "Recent studies challenge the pilgrimage hypothesis, emphasizing that Chaco's complexity may reflect a network of interconnected settlements rather than a single pilgrimage destination."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Drought was the primary cause of the Classic Maya collapse.",
+      "support": [
+        "Paleoclimatic evidence shows severe droughts occurred during the Classic Maya collapse period (800-900 AD), aligning with societal decline.",
+        "The Maya's reliance on agriculture made them highly vulnerable to prolonged droughts, which could have caused crop failures and food shortages.",
+        "Archaeological findings, such as abandoned cities and reduced settlement sizes, correlate with periods of drought in the region."
+      ],
+      "attack": [
+        "Multiple factors, including warfare, political instability, and overexploitation of resources, are often cited as primary drivers of the Maya collapse.",
+        "The collapse was not uniform across all Maya regions, suggesting localized causes rather than a single drought-driven event.",
+        "Some studies argue the Maya had adaptive strategies, like reservoirs and irrigation, that could have mitigated drought impacts.",
+        "Drought timelines do not perfectly align with the collapse, leaving causation uncertain."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Hannibal crossed the Alps through the Col de la Traversette.",
+      "support": [
+        "Historical sources suggest Hannibal's army used multiple routes across the Alps, and the Col de la Traversette is a plausible alternative to the traditionally cited Gotthard Pass.",
+        "Modern archaeological studies indicate Carthaginian military activity near the Col de la Traversette region, aligning with the timeframe of Hannibal's campaign.",
+        "The pass's elevation and strategic location could have provided a viable route for crossing the Alps with war elephants, as noted in some scholarly reconstructions."
+      ],
+      "attack": [
+        "Primary sources like Polybius explicitly describe Hannibal's route as passing through the Gotthard Pass, not the Col de la Traversette.",
+        "The Col de la Traversette's high altitude and rugged terrain would have made it extremely difficult for elephants and large armies to traverse, contradicting practicality.",
+        "Lack of definitive archaeological evidence directly linking the Col de la Traversette to Hannibal's campaign weakens its credibility as the primary route."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Tunguska explosion was caused by a stony asteroid rather than a comet.",
+      "support": [
+        "Stony asteroids are more common than comets, making them a more likely source for the Tunguska event.",
+        "The presence of nickel in soil samples from the explosion site aligns with stony asteroid composition.",
+        "The explosion's altitude (around 10 km) is consistent with an asteroid's higher density compared to a comet's volatile nature.",
+        "Comets typically leave behind more detectable debris, which was not found at the Tunguska site.",
+        "The lack of a crater suggests the object disintegrated in the atmosphere, a behavior more typical of asteroids than comets."
+      ],
+      "attack": [
+        "Comets can have stony nuclei, making the distinction between asteroid and comet origins less definitive.",
+        "The absence of a crater could result from either an asteroid or a comet exploding at high altitude.",
+        "Theoretical models suggest comets could produce similar atmospheric effects as asteroids during explosions.",
+        "Lack of meteorite fragments is inconclusive for both asteroid and comet impacts.",
+        "Some studies propose the Tunguska object may have been a comet with a rocky composition, complicating the classification."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Wow! signal was an extraterrestrial transmission.",
+      "support": [
+        "The Wow! signal's frequency (1420 MHz) matches the hydrogen line, a common target for interstellar communication due to its universal prevalence.",
+        "The signal's strength and narrowband characteristics resemble artificial transmissions rather than natural astrophysical phenomena.",
+        "The signal's 72-second duration and lack of repetition suggest a non-random, potentially intentional source.",
+        "No credible natural explanation has been definitively confirmed for the signal's origin despite extensive research."
+      ],
+      "attack": [
+        "The signal's origin was not precisely localized, making it impossible to confirm extraterrestrial origins.",
+        "Natural phenomena like pulsars or hydrogen clouds could explain the signal's characteristics.",
+        "The lack of follow-up detections undermines the likelihood of a deliberate, non-transient extraterrestrial transmission.",
+        "The signal may have been caused by human-made interference or technical anomalies in the telescope's equipment."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "ʻOumuamua's anomalous acceleration was caused by natural outgassing.",
+      "support": [
+        "Natural outgassing can produce non-gravitational acceleration in comets, which aligns with the observed anomalous acceleration of 'Oumuamua.",
+        "The gradual nature of 'Oumuamua's acceleration could be explained by continuous, low-level outgassing over time.",
+        "The object's interstellar origin suggests it might have a comet-like composition capable of outgassing when heated by the Sun."
+      ],
+      "attack": [
+        "No coma or dust trail was observed, which is a hallmark of cometary outgassing and contradicts the hypothesis.",
+        "The acceleration magnitude and direction do not match typical outgassing models for comets.",
+        "Alternative explanations, such as non-gravitational forces from solar radiation pressure or internal structure, are more consistent with the data."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Dark matter consists mainly of weakly interacting massive particles.",
+      "support": [
+        "WIMPs (Weakly Interacting Massive Particles) are a leading theoretical candidate for dark matter due to their ability to explain gravitational effects without interacting via electromagnetic forces.",
+        "Supersymmetry theories predict the existence of WIMPs, which aligns with the need for stable, non-luminous particles to account for dark matter's mass distribution.",
+        "The mass range of WIMPs matches the inferred dark matter density required to explain galaxy rotation curves and cosmic structure formation.",
+        "Direct detection experiments (e.g., XENON, LUX) are designed to search for WIMPs, reflecting their prominence in dark matter research."
+      ],
+      "attack": [
+        "No direct experimental evidence for WIMPs has been confirmed, despite decades of searches, casting doubt on their dominance in dark matter composition.",
+        "Alternative candidates like axions or sterile neutrinos are theoretically viable and may better explain observational data.",
+        "The lack of observed interactions in experiments suggests WIMPs may not be the primary component of dark matter, or their properties differ from current models.",
+        "Some astrophysical phenomena (e.g., galaxy clusters) could be explained by modifications to gravity (e.g., MOND) rather than WIMP-based dark matter."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Dark energy is exactly Einstein's cosmological constant.",
+      "support": [
+        "The cosmological constant is the simplest explanation for dark energy's constant density, matching observations of cosmic acceleration.",
+        "Observational data from supernovae and the cosmic microwave background align with the predictions of the cosmological constant.",
+        "The equation of state parameter for dark energy, w ≈ -1, matches the value expected for a cosmological constant."
+      ],
+      "attack": [
+        "Dark energy could be a dynamic field (e.g., quintessence) rather than a static cosmological constant, as alternative models fit some data equally well.",
+        "The cosmological constant's value, derived from quantum field theory, is vastly larger than observed, creating a significant theoretical inconsistency.",
+        "Some models suggest dark energy's properties might evolve over time, contradicting the fixed nature of the cosmological constant."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Hubble tension points to new physics rather than measurement error.",
+      "support": [
+        "The Hubble tension persists across multiple independent measurement techniques (e.g., CMB, supernovae, and local distance ladder methods), suggesting systematic errors are insufficient to explain the discrepancy.",
+        "The discrepancy between early-universe (CMB) and late-universe (local measurements) Hubble constant values exceeds the statistical significance of random errors, implying a fundamental flaw in the standard cosmological model.",
+        "Proposals to resolve the tension via new physics (e.g., dynamic dark energy, modified gravity, or primordial magnetic fields) have gained traction due to the failure of current models to reconcile the data."
+      ],
+      "attack": [
+        "Systematic errors in local distance ladder measurements (e.g., Cepheid variable calibrations or supernova light curve modeling) could plausibly account for the observed discrepancy.",
+        "The tension may arise from unaccounted biases in CMB data analysis, such as assumptions about the distribution of matter or foreground contaminants, rather than new physics.",
+        "The discrepancy could be a statistical fluctuation, as the Hubble constant's uncertainty is still large enough that the tension might not require a paradigm shift."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The muon g-2 anomaly indicates physics beyond the Standard Model.",
+      "support": [
+        "The muon g-2 anomaly shows a discrepancy of ~4.2σ between experimental results and Standard Model predictions, suggesting unexplained physics.",
+        "The Standard Model cannot account for the observed deviation without introducing new particles or interactions beyond its framework.",
+        "The anomaly is consistent across multiple experiments (e.g., E821, Fermilab), strengthening its credibility as a signal of new physics.",
+        "The muon's magnetic moment is highly sensitive to virtual particles, making it a powerful probe for physics beyond the Standard Model."
+      ],
+      "attack": [
+        "The Standard Model's theoretical predictions for the muon g-2 may include unaccounted higher-order corrections or missing parameters.",
+        "Systematic errors in experimental measurements could artificially inflate the observed discrepancy.",
+        "The anomaly might be explained by undiscovered Standard Model particles or interactions within the current framework.",
+        "A single experiment's result, even with high statistical significance, does not definitively prove new physics without further confirmation."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Life on Earth began at deep-sea hydrothermal vents.",
+      "support": [
+        "Hydrothermal vents release chemicals like hydrogen sulfide, which could have served as energy sources for early metabolic processes.",
+        "Extremophiles discovered near vents thrive in high-pressure, high-temperature environments, suggesting life can exist in such conditions.",
+        "Mineral structures at vents may have provided surfaces for organic molecule synthesis, a key step in abiogenesis.",
+        "The presence of ancient hydrothermal vent minerals in Earth's crust supports prolonged activity in these environments during early Earth history."
+      ],
+      "attack": [
+        "The claim relies on circumstantial evidence, as no direct fossilized remains of early life have been found at hydrothermal vents.",
+        "Alternative hypotheses, such as clay mineral catalysis or shallow marine environments, offer equally plausible explanations for life's origin.",
+        "The extreme temperatures and pressures at vents may have hindered the formation of complex organic molecules necessary for life.",
+        "The lack of consensus among scientists on the exact location and mechanisms of abiogenesis weakens the claim's validity."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "An RNA world preceded DNA-based life on Earth.",
+      "support": [
+        "RNA can act as both a genetic material and a catalyst (ribozymes), supporting its role in early life's chemical processes.",
+        "Modern cellular machinery, such as ribosomes, relies on RNA, suggesting an evolutionary link to an RNA-based origin.",
+        "Experiments demonstrate RNA can self-replicate and form complex structures under prebiotic conditions.",
+        "DNA's structural instability compared to RNA implies RNA may have been necessary for early life's viability."
+      ],
+      "attack": [
+        "RNA's chemical instability makes it less likely to have persisted long enough to evolve into DNA-based life.",
+        "The formation of complex RNA molecules from simple precursors remains poorly understood and unproven.",
+        "The transition from RNA to DNA is not well-explained, lacking clear evolutionary pathways or fossil evidence.",
+        "Alternative hypotheses, such as protein or lipid-based origins, are not ruled out by current evidence."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The last universal common ancestor lived in an alkaline hydrothermal vent environment.",
+      "support": [
+        "Alkaline hydrothermal vents provide chemical energy gradients that could drive abiogenesis through proton fluxes and mineral catalysis.",
+        "Modern microbial life in alkaline vents exhibits metabolic traits consistent with LUCA's genetic and biochemical simplicity.",
+        "Geochemical models suggest alkaline vents could concentrate organic molecules and facilitate lipid membrane formation.",
+        "The presence of molybdenum-dependent enzymes in LUCA's descendants aligns with vent geochemistry."
+      ],
+      "attack": [
+        "The lack of direct fossil or molecular evidence for LUCA's specific environment weakens the claim.",
+        "Alternative hypotheses propose LUCA originated in acidic hydrothermal systems or shallow marine environments.",
+        "Alkaline vent conditions may not replicate the thermodynamic constraints of early Earth's geochemistry.",
+        "The assumption that LUCA's environment mirrors modern vents overlooks potential evolutionary adaptations to changing conditions."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Rising oxygen levels were the main trigger of the Cambrian explosion.",
+      "support": [
+        "Rising oxygen levels enabled more complex metabolic processes, supporting the development of multicellular and diverse animal life.",
+        "Fossil evidence shows a correlation between increased atmospheric oxygen and the diversification of animal phyla during the Cambrian period.",
+        "Higher oxygen concentrations allowed for the evolution of active predation, driving evolutionary innovation and ecological competition."
+      ],
+      "attack": [
+        "Oxygen levels began rising millions of years before the Cambrian explosion, suggesting it was a background condition, not the immediate trigger.",
+        "Genetic innovations, such as the evolution of Hox genes, are increasingly cited as primary drivers of Cambrian diversification.",
+        "Some studies indicate that oxygen levels were already sufficient for complex life before the Cambrian, implying other factors were more critical."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Adult Tyrannosaurus rex had extensive feather covering.",
+      "support": [
+        "Fossil evidence from 2016 revealed melanosomes in T. rex skin impressions, consistent with feather structures.",
+        "Tyrannosaurus rex is classified within Theropoda, a group where feathered ancestors are well-documented.",
+        "Feathers could have served thermoregulation or display purposes, aligning with evolutionary trends in theropods."
+      ],
+      "attack": [
+        "No direct fossil evidence of feathers has been found on adult T. rex specimens.",
+        "Feathers may have been too fragile to fossilize in large theropods like T. rex.",
+        "Some researchers argue that T. rex's size and environment made feathers unnecessary for survival."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Spinosaurus actively pursued prey while swimming underwater.",
+      "support": [
+        "Fossil evidence suggests Spinosaurus had a long, muscular tail adapted for propulsion in water.",
+        "Anatomical features, such as a streamlined body and dense bones, resemble those of aquatic predators.",
+        "Isotopic analysis of its teeth indicates a diet rich in aquatic prey, like fish.",
+        "Comparisons to modern crocodiles, which hunt underwater, support semi-aquatic hunting behavior."
+      ],
+      "attack": [
+        "Spinosaurus' limb structure suggests it was more suited for terrestrial locomotion than swimming.",
+        "Its body density may have made sustained underwater pursuit energetically costly.",
+        "Fish remains in its teeth could indicate scavenging rather than active predation.",
+        "Lack of clear evidence for specialized underwater hunting adaptations weakens the claim."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The first humans reached the Americas mainly by a Pacific coastal route.",
+      "support": [
+        "Archaeological evidence from Monte Verde in Chile dates human presence to ~14,500 years ago, predating the Bering Land Bridge theory and suggesting coastal migration.",
+        "Genetic studies indicate a genetic link between Native American populations and Asian groups, consistent with a coastal route allowing gradual dispersal.",
+        "Ancient maritime technology, such as the use of watercraft, has been found in coastal regions, supporting the feasibility of a Pacific coastal migration."
+      ],
+      "attack": [
+        "The Bering Land Bridge theory remains the most widely accepted due to geological evidence of a land connection between Siberia and Alaska during the last Ice Age.",
+        "Coastal route proponents lack continuous archaeological evidence along the entire Pacific coastline, raising questions about its reliability as the primary pathway.",
+        "Radiocarbon dating of coastal sites is often contested, with some findings challenged by later reanalysis, undermining claims of early coastal settlement."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The last woolly mammoths disappeared mainly because of climate change.",
+      "support": [
+        "The extinction of woolly mammoths on Wrangel Island coincided with the end of the last ice age, a period marked by significant climate warming.",
+        "Climate change led to the transformation of mammoth habitats from tundra to forest, reducing their available food sources.",
+        "Isotope analysis of mammoth remains shows dietary shifts linked to changing vegetation patterns driven by climate.",
+        "The rapid warming of the Holocene epoch outpaced mammoths' ability to adapt, leading to population collapse."
+      ],
+      "attack": [
+        "Archaeological evidence shows human hunting on Wrangel Island occurred shortly before the last mammoths disappeared, suggesting overhunting as a key factor.",
+        "Mammoths on St. Paul Island went extinct 5,600 years ago, long after the last major climate shifts, indicating human impact may have been more decisive.",
+        "Genetic studies reveal inbreeding and low genetic diversity in late mammoth populations, which could have made them more vulnerable to environmental changes.",
+        "Some regions saw mammoth populations decline before major climate changes, suggesting other factors like human predation or disease played a role."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Denisovans occupied large parts of Island Southeast Asia.",
+      "support": [
+        "Genetic studies show Denisovan DNA in modern Southeast Asian populations, suggesting historical presence in the region.",
+        "A Denisovan tooth discovered in the Philippines indicates direct presence in Island Southeast Asia.",
+        "Archaeological evidence of Denisovan-like tools in the region supports their occupation of coastal and island territories."
+      ],
+      "attack": [
+        "The genetic evidence of Denisovan DNA in Southeast Asians could result from limited interbreeding rather than large-scale occupation.",
+        "The single Denisovan tooth found in the Philippines does not confirm widespread or sustained habitation of the region.",
+        "Other hominin species, like Homo floresiensis, may have coexisted in the area, complicating attribution of archaeological finds to Denisovans."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Homo floresiensis descended from Homo erectus.",
+      "support": [
+        "Fossil evidence shows Homo floresiensis shares key anatomical traits with Homo erectus, such as the shape of the skull and postcranial bones.",
+        "Island dwarfism, a known evolutionary process, could explain the reduced size of Homo floresiensis if Homo erectus migrated to Flores Island.",
+        "Homo erectus fossils have been found in Southeast Asia, suggesting a potential migratory route to Flores Island."
+      ],
+      "attack": [
+        "Homo floresiensis exhibits unique skeletal features, such as a distinct wrist bone and small brain size, not directly attributable to Homo erectus.",
+        "Genetic evidence is lacking, making it difficult to confirm direct ancestry from Homo erectus.",
+        "Alternative hypotheses propose Homo floresiensis may have descended from an earlier hominin species like Homo habilis rather than Homo erectus."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Homo naledi deliberately buried its dead.",
+      "support": [
+        "Fossils of Homo naledi were found in a remote chamber with minimal signs of scavenging or water transport, suggesting intentional placement.",
+        "The presence of multiple individuals in the chamber, including juveniles, implies social behavior consistent with ritualistic practices.",
+        "Analysis of bone surfaces shows minimal damage from carnivores, supporting the idea of deliberate burial to prevent decomposition."
+      ],
+      "attack": [
+        "The chamber's location could have naturally accumulated bones through accidental deposition rather than intentional burial.",
+        "No direct evidence of symbolic behavior, such as grave goods or ritual artifacts, has been found with Homo naledi remains.",
+        "Alternative explanations, like disease or environmental factors, could account for the accumulation of remains without deliberate action."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Neanderthals created symbolic cave art independently of modern humans.",
+      "support": [
+        "Neanderthals used ochre and other pigments in ways that suggest symbolic behavior, such as creating patterns and body markings.",
+        "Archaeological evidence from sites like the Cueva de los Avellanos shows Neanderthals used red ochre in symbolic contexts.",
+        "Shell beads with symbolic engravings found in Denisova Cave are associated with Neanderthal activity."
+      ],
+      "attack": [
+        "Most symbolic cave art in Europe, such as the Chauvet and Lascaux paintings, dates to 40,000–35,000 years ago, a period when Neanderthals were already extinct in Europe.",
+        "Neanderthal symbolic artifacts are rare and often interpreted as functional rather than artistic, unlike the complex cave art attributed to modern humans.",
+        "Genetic and archaeological evidence suggests modern humans and Neanderthals coexisted in Europe, but symbolic art from this period is consistently linked to modern human populations."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Dogs were first domesticated in Siberia before 20,000 years ago.",
+      "support": [
+        "Genetic studies of ancient wolf DNA indicate a genetic split between wolves and early dogs originated in East Asia, including Siberia, around 15,000–20,000 years ago.",
+        "Archaeological evidence, such as 15,000-year-old dog remains found in Siberia, supports early domestication in the region.",
+        "Siberia's harsh climate may have driven wolves to rely on human cooperation for survival, fostering domestication.",
+        "Ancient DNA analysis of modern dog breeds shows a stronger genetic link to Siberian wolves than to wolves from other regions."
+      ],
+      "attack": [
+        "Some researchers argue domestication may have occurred independently in multiple regions, including Europe and the Middle East, around the same time.",
+        "Fossil records from other regions, like Europe, show dog remains dating to 14,000 years ago, which could challenge Siberia's exclusivity as the origin.",
+        "Genetic diversity in modern dogs suggests multiple domestication events, not a single origin in Siberia.",
+        "The timeline for domestication remains debated, with some studies proposing earlier dates in other regions than 20,000 years ago."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Green Sahara ended abruptly across most of North Africa.",
+      "support": [
+        "Sediment core data from lakes in the Sahara show abrupt shifts in mineral composition indicative of rapid desiccation around 5,000 years ago.",
+        "Archaeological evidence reveals a sudden decline in human settlements and agricultural practices across North Africa during the Holocene transition.",
+        "Isotopic analysis of speleothems (stalagmites) indicates a sharp drop in regional precipitation around 5,500 years ago, aligning with the end of the Green Sahara."
+      ],
+      "attack": [
+        "Some regions of the Sahara show gradual ecological transitions rather than abrupt desertification, as evidenced by layered sediment records from the Tibesti Mountains.",
+        "Climate models suggest the end of the Green Sahara was influenced by gradual orbital forcing and atmospheric circulation changes, not a sudden event.",
+        "Cultural continuity in North Africa, such as persistent trade networks, implies a more prolonged adaptation period rather than an abrupt collapse."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The 536 CE dust veil was caused by an Icelandic volcanic eruption.",
+      "support": [
+        "Ice core data from Greenland shows volcanic sulfate layers consistent with an eruption around 536 CE, which aligns with Icelandic volcanic activity patterns.",
+        "Historical records from the 6th century describe a 'year without summer' following 536 CE, a phenomenon linked to volcanic cooling effects that could originate from Icelandic eruptions."
+      ],
+      "attack": [
+        "The primary evidence for the 536 CE dust veil points to the Ilopango volcano in El Salvador, not Iceland, as its eruption (539 CE) produced global climate impacts.",
+        "Icelandic volcanic records show no major eruptions between 530-540 CE, while the 536 event's timing and magnitude better match eruptions in the tropics."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Book of Kells was produced on Iona before being moved to Kells.",
+      "support": [
+        "The Book of Kells exhibits stylistic similarities to Iona's Insular art, suggesting possible influence from Iona's monastic workshops.",
+        "Historical records indicate Iona was a major center of manuscript production during the 6th century, aligning with the book's creation period.",
+        "Scholars have proposed that the Book of Kells may have been relocated from Iona to Kells due to Viking invasions threatening Iona's monasteries."
+      ],
+      "attack": [
+        "The Book of Kells was discovered in Kells, Ireland, and its association with the local monastery is well-documented in historical accounts.",
+        "There is no direct archaeological or textual evidence confirming the manuscript was physically moved from Iona to Kells.",
+        "The Insular art style is regional and not exclusive to Iona, making stylistic similarities insufficient to prove origin or relocation."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Carnac stones were arranged primarily for astronomical observation.",
+      "support": [
+        "Some Carnac stone alignments correspond to solstices and equinoxes, suggesting astronomical purpose.",
+        "The linear arrangements of stones may have tracked celestial events like the sun's path during seasonal changes.",
+        "Similar megalithic sites with known astronomical functions, like Stonehenge, share construction principles with Carnac."
+      ],
+      "attack": [
+        "Most Carnac stones lack precise alignment with specific celestial events, undermining astronomical significance.",
+        "The primary purpose of Carnac sites is more likely ritualistic or social, as evidenced by their scale and distribution.",
+        "Lack of direct evidence (e.g., carvings, written records) linking Carnac stones to astronomical practices weakens the claim."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The helmet-like headgear on Olmec colossal heads represents ballgame equipment.",
+      "support": [
+        "The Olmec ballgame, which involved a rubber ball and ritualistic significance, is known to have used helmet-like gear, suggesting potential symbolic parallels with the colossal heads' headgear.",
+        "Olmec colossal heads often depict individuals with distinctive head adornments, which could represent status or ceremonial roles tied to the ballgame's elite participants.",
+        "Archaeological evidence of Olmec ballgame equipment, such as the 'circular' or 'helmet' shaped gear, shares visual similarities with the headgear depicted on the colossal heads."
+      ],
+      "attack": [
+        "The headgear on the colossal heads lacks direct archaeological or iconographic evidence linking it specifically to the ballgame, as opposed to other ritual or political symbols.",
+        "The Olmec ballgame's primary equipment, such as the rubber ball and specific types of gear, is more commonly depicted in other artifacts rather than on the colossal heads.",
+        "The colossal heads are widely interpreted as representing rulers or deities, and their headgear may symbolize power or cosmological significance rather than ballgame equipment."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The Plain of Jars was built primarily for prehistoric burial rituals.",
+      "support": [
+        "Archaeological evidence, including human remains found inside the jars, supports their use in burial practices.",
+        "The strategic placement of jars in ceremonial landscapes aligns with prehistoric ritualistic activities.",
+        "Radiocarbon dating of artifacts at the site places the construction during the prehistoric era, matching the timeframe of burial rituals."
+      ],
+      "attack": [
+        "Alternative theories suggest the jars may have served multiple purposes, including storage or ceremonial offerings, not exclusively burial.",
+        "The absence of definitive written records from the prehistoric period limits certainty about the jars' primary function.",
+        "Not all jars have been found with human remains, casting doubt on the claim that all were used for burial rituals."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "The first Polynesian settlement of Hawaiʻi occurred before 1000 CE.",
+      "support": [
+        "Archaeological evidence, such as ancient moai statues and tools, suggests human activity in Hawaii predates 1000 CE.",
+        "Genetic studies indicate Polynesian migration patterns could have reached Hawaii as early as 800 CE.",
+        "Oral traditions of Indigenous Hawaiians describe ancestral voyages that align with pre-1000 CE timelines."
+      ],
+      "attack": [
+        "Most radiocarbon dating of artifacts in Hawaii places the earliest settlements between 1000-1200 CE.",
+        "Polynesian navigation required advanced seafaring skills, which may have developed later than 1000 CE.",
+        "Lack of definitive archaeological sites predating 1000 CE weakens claims of earlier settlement."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Mars once had a long-lived northern ocean.",
+      "support": [
+        "Mars' northern lowlands exhibit a flat, basin-like topography consistent with a former ocean basin.",
+        "Hydrated minerals and sedimentary deposits in the Noctis Labyrinthus region suggest prolonged water activity.",
+        "Isotopic analysis of Martian meteorites indicates ancient water-rock interactions consistent with an oceanic environment.",
+        "Ancient shorelines, such as the Arabia Terra rim, align with models of a northern ocean shoreline.",
+        "Simulations of Mars' early climate show conditions could sustain liquid water for millions of years."
+      ],
+      "attack": [
+        "The absence of definitive marine fossils or sedimentary layers undermines the ocean hypothesis.",
+        "Alternative explanations, such as volcanic flooding or glacial activity, could account for observed features.",
+        "Current topographic data may not accurately represent ancient Martian geography.",
+        "Hydrated minerals could form through non-marine processes like hydrothermal activity.",
+        "The northern ocean theory struggles to explain the lack of widespread salt deposits expected from a large body of water."
+      ],
+      "label": "Uncertain"
+    },
+    {
+      "claim": "Phosphine in Venus's atmosphere is evidence of active microbial life.",
+      "support": [
+        "Phosphine (PH3) is primarily produced by anaerobic microbial life on Earth, suggesting a similar biological origin on Venus.",
+        "No confirmed abiotic processes on Venus can explain the detected phosphine levels under current atmospheric conditions.",
+        "The presence of phosphine in a chemically hostile environment like Venus's atmosphere increases the likelihood of biological activity."
+      ],
+      "attack": [
+        "Phosphine can form through non-biological reactions involving sulfuric acid and lightning in Venus's atmosphere.",
+        "Venus's extreme surface temperatures and lack of liquid water make sustained microbial life implausible.",
+        "The 2020 phosphine detection was disputed due to potential instrumental errors or unaccounted atmospheric chemistry.",
+        "Abiotic processes like volcanic activity or photochemical reactions could generate phosphine without biological input."
+      ],
+      "label": "Uncertain"
+    }
+  ]
